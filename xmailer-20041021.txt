@@ -1,0 +1,2239 @@
+2207	User-Agent: eGroups-EW/0.82
+2207	X-Mailer: Yahoo Groups Message Poster
+1345	User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+1289	X-Mailer: The Bat! (v1.62r)
+1270	X-Mailer: The Bat! (v2.00.6) Business
+1044	X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+873	X-Mailer: Apple Mail (2.619)
+858	User-Agent: Mutt/1.4.1i
+835	X-Mailer: Ximian Evolution 1.4.6 (1.4.6-2) 
+767	X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+719	X-Mailer: Ximian Evolution 1.4.6 
+664	User-Agent: KMail/1.7
+631	X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+612	X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+592	X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+558	User-Agent: Mozilla Thunderbird 0.7.3 (Windows/20040803)
+550	X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+526	User-Agent: KMail/1.6.2
+488	User-Agent: Mozilla Thunderbird 0.8 (X11/20040913)
+464	User-Agent: Mutt/1.5.6+20040907i
+453	User-Agent: Mutt/1.5.6i
+437	X-Mailer: Internet Mail Service (5.5.2653.19)
+411	X-Mailer: Internet Mail Service (5.5.2657.72)
+386	X-Mailer: The Bat! (v2.12.00) Business
+380	User-Agent: Mutt/1.5.6+20040722i
+349	X-Mailer: Microsoft Outlook, Build 10.0.6626
+325	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7b) Gecko/20040421
+324	X-Mailer: The Bat! (v1.51) Personal
+323	User-Agent: XanaNews/1.16.3.1
+294	X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+285	X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+261	X-Mailer: Microsoft CDO for Windows 2000
+251	User-Agent: Mutt/1.3.28i
+248	X-Mailer: QUALCOMM Windows Eudora Version 6.1.2.0
+243	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US;
+240	X-Mailer: Evolution 2.0.1 
+238	User-Agent: Mozilla Thunderbird 0.8 (X11/20040926)
+237	X-Mailer: Evolution 2.0.2 (2.0.2-1) 
+235	X-Mailer: Microsoft Outlook, Build 10.0.2616
+231	X-Mailer: Microsoft Outlook, Build 10.0.2627
+228	X-Mailer: Evolution 2.0.1 (2.0.1-2) 
+207	X-Mailer: SquirrelMail/1.4.3a
+202	User-Agent: Opera7.23/Win32 M2 build 3227
+201	User-Agent: SquirrelMail/1.4.3a
+191	User-Agent: Mozilla Thunderbird 0.7.2 (Windows/20040707)
+189	X-Mailer: Ximian Evolution 1.4.6 (1.4.6-2)
+182	User-Agent: Mutt/1.4.2.1i
+179	X-Mailer: CommuniGate Pro WebUser Interface v.4.2
+175	User-Agent: KMail/1.7.50
+171	User-Agent: XanaNews/1.16.4.6
+168	X-Mailer: Microsoft Outlook Express 6.00.2720.3000
+166	X-Mailer: Microsoft Outlook Express 6.00.2720.3000
+159	X-Mailer: ELM [version 2.4ME+ PL108 (25)]
+153	X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+152	X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+143	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US;
+140	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040922
+138	X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+138	User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.3
+136	X-Mailer: Evolution 2.0.1 (2.0.1-4) 
+136	X-Mailer: Ximian Evolution 1.4.5 (1.4.5-7) 
+134	User-Agent: KMail/1.5.4
+128	X-Mailer: QUALCOMM Windows Eudora Version 6.1.1.1
+125	User-Agent: Mozilla Thunderbird 0.8 (Macintosh/20040913)
+125	X-Mailer: QUALCOMM Windows Eudora Version 5.1
+124	X-Mailer: QUALCOMM Windows Eudora Version 5.2.0.9
+123	User-Agent: XanaNews/1.16.1.7
+121	X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+120	User-Agent: Gnus/5.1006 (Gnus v5.10.6) Emacs/21.3 (gnu/linux)
+119	User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.1.50
+115	X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+107	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040804
+106	X-Mailer: Microsoft Outlook Express 5.00.2615.200
+101	X-Mailer: Ximian Evolution 1.4.5 
+101	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040803)
+100	X-Mailer: Microsoft CDO for Windows 2000
+99	User-Agent: Mutt/1.5.6+20040818i
+95	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6b) Gecko/20031208
+94	User-Agent: KMail/1.7.1
+91	X-Mailer: ListManager Web Interface
+90	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)
+89	User-Agent: Mutt/1.4i
+89	User-Agent: SquirrelMail/1.4.1
+86	User-Agent: KMail/1.5
+84	X-Mailer: Microsoft Outlook Express 5.50.4927.1200
+84	X-Mailer: The Bat! (v3.0) Professional
+84	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040913
+84	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.3) Gecko/20040910
+83	User-Agent: SquirrelMail/1.4.2
+81	X-Mailer: Evolution 2.0.0 
+78	User-Agent: KMail/1.7 (proko2 branch)
+78	User-Agent: Mutt/1.4.2i
+78	User-Agent: Gnus/5.1006 (Gnus v5.10.6) XEmacs/21.4 (Security Through
+78	X-Mailer: Microsoft Outlook Express 6.00.2741.2600
+74	User-Agent: SquirrelMail/1.5.1 [CVS]
+74	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.8a3) Gecko/20040817
+73	X-Mailer: MIME-tools 5.41 (Entity 5.404)
+73	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040803
+73	X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+71	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.3) Gecko/20040910
+71	X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2911.0)
+71	User-Agent: Mozilla Thunderbird 0.8 (X11/20040918)
+70	X-mailer: Pegasus Mail for Windows (4.21c)
+69	X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+68	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040616
+67	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.6) Gecko/20040114
+66	User-Agent: KMail/1.6.1
+65	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040113
+65	X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+64	X-Mailer: Mozilla 4.79 [en] (Windows NT 5.0; U)
+63	X-Mailer: Lotus Notes Release 6.5.1 January 21, 2004
+62	X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+61	X-Mailer: Lotus Notes Release 6.5.2 June 01, 2004
+61	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.1) Gecko/20031114
+61	User-Agent: Mozilla Thunderbird 0.7.1 (Windows/20040626)
+60	User-Agent: Internet Messaging Program (IMP) 3.2.2
+60	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT; rv:1.7) Gecko/20040616
+59	User-Agent: KMail/1.5.3
+57	User-Agent: Mozilla Thunderbird 0.8 (X11/20040916)
+56	User-Agent: KMail/1.5.1
+55	User-Agent: Mozilla Thunderbird 0.7 (Windows/20040616)
+55	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040617
+54	X-Mailer: Internet Mail Service (5.5.2656.59)
+54	User-Agent: Mozilla Thunderbird 0.6 (X11/20040519)
+53	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.2) Gecko/20040803
+53	X-Mailer: PHP/4.3.2
+53	X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+52	X-Mailer: Mulberry/3.1.6 (Mac OS X)
+52	X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2910.0)
+52	User-Agent: Pan/0.14.2.91 (As She Crawled Across the Table (Debian GNU/Linux))
+52	X-Mailer: MIME::Lite 1.5  (F2.73; T1.001; A1.64; B3.05; Q3.03)
+51	X-Mailer: Microsoft Outlook, Build 10.0.4024
+50	User-Agent: KNode/0.8.0
+49	X-Mailer: Evolution 2.0.2 
+49	X-Mailer: Yahoo Groups Message Poster
+49	User-Agent: eGroups-EW/0.82
+48	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040413 Debian/1.6-5
+48	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040510
+47	User-Agent: Loom/3.14 (http://gmane.org/)
+47	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.3.50 (gnu/linux)
+47	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US;
+47	User-Agent: Mozilla Thunderbird 0.5 (Windows/20040207)
+46	X-Mailer: oMail 0.98.4 - http://webmail.omnis.ch
+46	User-Agent: KNode/0.7.7
+45	X-Mailer: PEPr, PEAR Proposal System
+45	X-Mailer: QUALCOMM Windows Eudora Version 6.0.0.22
+45	X-Mailer: Lotus Notes Release 6.5 September 26, 2003
+45	X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+43	X-Mailer: QUALCOMM Windows Eudora Version 5.2.1
+42	X-Mailer: Evolution 1.5.9.1 (1.5.9.1-2) 
+42	X-Mailer: Sylpheed version 0.9.99 (GTK+ 1.2.10; i386-redhat-linux-gnu)
+42	User-Agent: Gnus/5.1003 (Gnus v5.10.3) Emacs/21.1 (gnu/linux)
+42	X-Mailer: Mozilla 3.0 (OS/2; U)
+41	User-Agent: XanaNews/1.16.4.2
+41	User-Agent: Mutt/1.2.5.1i
+41	User-Agent: Thunderbird 0.7.3 (Windows/20040803)
+41	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.2) Gecko/20040804 Netscape/7.2 (ax)
+41	X-Mailer: PINE 4.53
+40	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040116
+39	User-Agent: Opera M2/7.54 (Win32, build 3865)
+39	X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+39	User-Agent: Mozilla Thunderbird 0.8 (X11/20041012)
+39	X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.6 (32)
+39	X-Mailer: Internet Mail Service (5.5.2650.21)
+38	User-Agent: SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 Emacs/21.3 (i386-pc-linux-gnu) MULE/5.0 (SAKAKI)
+38	X-Mailer: The Bat! (v2.12.00) Personal
+38	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.3 (gnu/linux)
+38	X-Mailer: WWW-Mail 1.6 (Global Message Exchange)
+38	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7) Gecko/20040616
+38	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.2) Gecko/20040803
+37	X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+37	X-Mailer: Microsoft Outlook, Build 10.0.4510
+36	User-Agent: Opera7.23/Win32 M2 build 3227
+36	X-Mailer: Internet Mail Service (5.5.2655.55)
+35	X-Mailer: Microsoft Outlook, Build 10.0.3416
+35	User-Agent: slrn/0.9.8.0 (FreeBSD)
+35	X-Mailer: PocoMail 3.1 (1880) - Licensed Version
+34	User-Agent: Mutt/1.5.4i
+34	User-Agent: Mutt/1.5.6+20040523i
+34	X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+33	X-Mailer: Sylpheed version 0.9.10 (GTK+ 1.2.10; i386-redhat-linux-gnu)
+33	X-Mailer: Microsoft Outlook, Build 10.0.2627
+33	X-Mailer: Evolution 2.0.0 (2.0.0-2) 
+32	User-Agent: Mozilla Thunderbird 0.6 (Windows/20040502)
+31	User-Agent: Mutt/1.5.5.1+cvs20040105i
+31	X-Mailer: The Bat! (v2.00.6)         CD5BF9353B3B7091
+31	User-Agent: KMail/1.4.3
+31	X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+30	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.1) Gecko/20020830
+30	User-Agent: slrn/0.9.8.0 (Linux)
+30	User-Agent: Mozilla Thunderbird 0.7 (X11/20040615)
+30	X-Mailer: Microsoft Outlook, Build 10.0.2616
+29	User-Agent: Gnus/5.1002 (Gnus v5.10.2) Emacs/21.2 (gnu/linux)
+29	X-Mailer: Apple Mail (2.553)
+29	User-Agent: Gnus/5.1006 (Gnus v5.10.6) XEmacs/21.4 (Common Lisp, linux)
+29	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7) Gecko/20040616 MultiZilla/1.6.4.0b
+29	X-Mailer: VM 7.04 under 21.4 (patch 8) "Honest Recruiter" XEmacs Lucid
+28	X-Mailer: Lotus Notes Release 5.0.10  March 22, 2002
+28	User-Agent: Mutt/1.2.5i
+28	User-Agent: Pan/0.14.2.91 (As She Crawled Across the Table)
+28	X-Mailer: Microsoft Outlook Express 5.50.4807.1700
+28	X-Mailer: Becky! ver. 2.07.04 [en]
+28	User-Agent: Microsoft-Entourage/11.0.0.040405
+28	X-Mailer: Lotus Notes Release 5.0.5  September 22, 2000
+28	X-Mailer: Microsoft Outlook 9.0, Build 9.0.2910.0
+27	User-Agent: Hamster/2.0.0.1
+27	User-Agent: KMail/1.6.50
+27	X-Mailer: QUALCOMM Windows Eudora Version 5.1.1
+27	X-mailer: Pegasus Mail for Windows (v4.12a)
+27	X-Mailer: Novell GroupWise Internet Agent 6.5.2 Beta
+27	User-Agent: Gnus/5.0808 (Gnus v5.8.8) Emacs/20.7
+27	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041012
+27	X-Mailer: Evolution 2.0.1 (2.0.1-0.mozer.2) 
+27	User-Agent: Mozilla/5.0 (Windows; U; WinNT4.0; de-AT; rv:1.7.3) Gecko/20040910
+26	X-Mailer: Microsoft Outlook Express 6.00.2900.2055
+26	X-Mailer: Microsoft Outlook Express 6.00.3790.0
+26	X-Mailer: Mulberry/3.1.6 (Win32)
+26	X-Mailer:
+26	User-Agent: Mutt/1.3.25i
+26	User-Agent: Internet Messaging Program (IMP) 3.2.5
+26	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7) Gecko/20040616
+26	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.2) Gecko/20040804 Netscape/7.2
+25	X-Mailer: oMail 0.98.2 - http://webmail.omnis.ch
+25	X-Mailer: Microsoft Outlook CWS, Build 9.0.6604 (9.0.2911.0)
+25	X-Mailer: Evolution 1.5.94.1 (1.5.94.1-1) 
+25	User-Agent: SquirrelMail/1.4.3a-1
+25	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7b) Gecko/20040316
+25	User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.5) Gecko/20040712
+25	X-Mailer: NeoMail 1.25
+25	User-Agent: Mozilla Thunderbird 0.7.1 (X11/20040626)
+25	User-Agent: Xnews/5.04.25
+25	X-Mailer: SquirrelMail/1.4.3a-1
+25	X-Mailer: RLSP Mailer
+25	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+25	X-Mailer: Ximian Evolution 1.4.5 (1.4.5-1) 
+25	X-Mailer: Sylpheed-Claws 0.9.12a (GTK+ 1.2.10; i386-pc-linux-gnu)
+25	User-Agent: Mozilla/5.0 (X11; U; DragonFly i386; en-US; rv:1.7) Gecko/20040701
+24	User-Agent: Mutt/1.5.5.1i
+24	User-Agent: Mozilla Thunderbird 0.8 (Windows/20040909)
+24	X-Mailer: http://www.courier-mta.org/cone/
+24	User-Agent: SquirrelMail/1.5.0
+24	X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+23	X-Mailer: QUALCOMM Windows Eudora Version 6.1.0.6
+23	User-Agent: Internet Messaging Program (IMP) 3.2.1
+23	X-Mailer: PINE 4.61
+23	X-Mailer: The Bat! (v3.0) UNREG / CD5BF9353B3B7091
+23	X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+23	X-Mailer: Web Mail 5.6.4-0
+22	X-Mailer: MailBoy 2004
+22	X-Mailer: Lotus Notes Release 5.0.11   July 24, 2002
+22	X-Mailer: Evolution 1.5.94.1 
+22	User-Agent: SquirrelMail/1.4.2-0.1.7.x
+22	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040806
+22	X-Mailer: Sylpheed-Claws 0.9.12cvs120 (GTK+ 1.2.10; i686-pc-linux-gnu)
+22	X-Mailer: Internet Mail Service (5.5.2657.72)
+22	User-Agent: Netscape6/6.1b1
+22	X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
+21	User-Agent: MIME-tools 5.503 (Entity 5.501)
+21	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20040910
+21	X-Mailer: Microsoft Outlook Express 5.50.4942.400
+21	X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0
+21	X-Mailer: The Bat! (v2.12.00)
+21	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; i386-pc-linux-gnu)
+20	User-Agent: Pegasus Mail for Win32 (v3.12a)
+20	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.2) Gecko/20040308
+20	User-Agent: SquirrelMail/1.4.0
+20	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a5) Gecko/20041007
+20	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.1) Gecko/20040707
+19	X-Mailer: Sylpheed-Claws 0.9.12b (GTK+ 1.2.10; i386-pc-linux-gnu)
+19	User-Agent: mPOP Web-Mail 2.19
+19	X-Mailer: SquirrelMail/1.4.3
+19	X-mailer: Foxmail 5.0 [cn]
+19	X-Mailer: 9.0 for Windows sub 5000
+19	X-Mailer: Opera 5.12 build 932
+19	User-Agent: Microsoft-Entourage/10.1.4.030702.0
+19	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4) Gecko/20030612
+19	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.2)
+19	X-Mailer: reportbug 2.99.5
+19	User-Agent: Mozilla Thunderbird 0.6 (X11/20040502)
+19	X-Mailer: OpenGroupware.org
+19	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5) Gecko/20031107 Debian/1.5-3
+19	User-Agent: SquirrelMail/1.4.3
+18	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040616
+18	User-Agent: AOL 8.0 for Windows US sub 230
+18	X-Mailer: IncrediMail (3001609)
+18	User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.0.6
+18	User-Agent: Opera7.23/Win32 M2 build 3226
+18	User-Agent: Thunderbird 0.6 (Windows/20040502)
+18	X-Mailer: Apple Mail (2.618)
+18	X-Mailer: ELM [version 2.4ME+ PL99b (25)]
+18	X-Mailer: Novell GroupWise Internet Agent 6.5.2 
+18	X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+18	User-Agent: The Bat! (v2.00.4) Personal
+18	X-Mailer: Octeth Email Manager Pro (www.octeth.com)
+18	User-Agent: G2/0.2
+18	X-Mailer: The Bat! (v2.10.03) Personal
+17	X-Mailer: Balsa 2.2.5
+17	X-Mailer: Mulberry/3.1.5 (Mac OS X)
+17	User-Agent: AOL 7.0 for Windows US sub 118
+17	User-Agent: Gnus/5.1006 (Gnus v5.10.6) XEmacs/21.4 (Security Through Obscurity, linux)
+17	X-Mailer: Internet Mail Service (5.5.2653.19)
+17	X-Mailer: CommuniGate Pro WebUser Interface v.4.1.8
+17	User-Agent: Gnus/5.1002 (Gnus v5.10.2) Emacs/21.3 (gnu/linux)
+17	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7b) Gecko/20040316
+17	X-Mailer: QUALCOMM Windows Eudora Version 5.1
+17	X-Mailer: SuSE Linux Openexchange Server 4 - WebMail (Build 2.3826)
+17	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6) Gecko/20040113
+16	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2.1) Gecko/20030225
+16	X-Mailer: Open WebMail 2.32 20040525
+16	X-mailer: Foxmail 4.1 [eg]
+16	User-Agent: Mozilla Thunderbird 0.7.1 (Macintosh/20040626)
+16	User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+16	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040124
+16	X-Mailer: GoMail 3.0.1
+16	User-Agent: Internet Messaging Program (IMP) 3.2.3
+16	User-Agent: VXmailer 1.1
+15	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040930
+15	X-Mailer: Lotus Notes Release 6.0.3 September 26, 2003
+15	X-Mailer: KMail [version 1.3.2]
+15	X-Mailer: VM 7.19 under Emacs 21.3.1
+15	X-Mailer: Internet Mail Service (5.5.2658.3)
+15	User-Agent: Rodriquezmail v9.8
+15	X-Mailer: MySQL support system v3 (c) 2002-2003 Ensita.NET
+15	X-Mailer: Evolution 1.5.94 
+15	X-Mailer: QUALCOMM Windows Eudora Version 5.0.2
+15	X-Mailer: Internet Mail Service (5.5.2448.0)
+15	User-Agent: dsa-launch $Revision: 1.13 $
+15	User-Agent: Opera M2/7.54 (Win32, build 3869)
+15	X-Mailer: IncrediMail (2501361)
+15	User-Agent: Foxmail 4.2 [cn]
+15	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8a4) Gecko/20040927
+15	User-Agent: Gnus/5.1002 (Gnus v5.10.2) Emacs/21.3.50 (gnu/linux)
+15	X-Mailer: Ximian Evolution 1.2.2 (1.2.2-5) 
+15	User-Agent: Internet Mail Service (5.5.2650.21)
+15	X-mailer: Foxmail 5.0 [en]
+14	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041007 Debian/1.7.3-5
+14	X-Mailer: Ximian Evolution 1.4.5 (1.4.5-7.1asp) 
+14	X-Mailer: QUALCOMM Windows Eudora Version 6.0.3.0
+14	X-Mailer: Novell GroupWise Internet Agent 6.5.2
+14	X-Mailer: SecureBat! Lite (v2.12.4) Personal
+14	X-Mailer: Earthlink Zoo Mail 1.0
+14	User-Agent: QUALCOMM Windows Eudora Version 6.0.0.22
+14	X-Mailer: MH-E 7.82+cvs; nmh 1.0.4; GNU Emacs 21.1.1
+14	User-Agent: QUALCOMM Windows Eudora Version 5.1
+14	User-Agent: fostering Program V Mail Client 5.0
+14	X-Mailer: Microsoft Outlook Express 5.00.2615.200
+14	User-Agent: The Bat! (v1.52f) Business
+14	X-Mailer:
+14	User-Agent: Mozilla Thunderbird 0.7.3 (Macintosh/20040803)
+14	X-Mailer: livemail.co.uk Webmail
+13	X-Mailer: SquirrelMail/1.4.3-RC1
+13	X-Mailer: Atlas Mailer 2.0
+13	User-Agent: IncrediMail 2001 (1800838)
+13	X-Mailer: Forte Agent 2.0/32.652
+13	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.2) Gecko/20040804 Netscape/7.2 (ax)
+13	User-Agent: 8.0 for Windows sub 6014
+13	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040618
+13	X-Mailer: Lotus Notes Release 5.0.3 (Intl) 21 March 2000
+13	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6) Gecko/20040113
+13	User-Agent: tin/1.7.2-20031104 ("Eriskay") (UNIX) (Linux/2.4.26 (i686))
+13	X-Mailer: Sylpheed version 0.9.10 (GTK+ 1.2.10; i686-pc-linux-gnu)
+13	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040115
+13	User-Agent: Gnus/5.1006 (Gnus v5.10.6) Emacs/21.2 (gnu/linux)
+13	X-Mailer: Mozilla 4.8 [en] (Win98; U)
+13	User-Agent: SquirrelMail/1.4.3-RC1
+13	X-Mailer: 9.0 for Windows sub 5003
+13	User-Agent: Mozilla Thunderbird 0.8 (X11/20040919)
+13	X-mailer: Pegasus Mail for Windows (4.21b)
+13	User-Agent: Microsoft-Entourage/11.1.0.040913
+13	User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2022
+13	X-Mailer: NeoMail 1.26
+13	X-Mailer: Lotus Notes Release 6.0.2CF1 June 9, 2003
+12	X-Mailer: reportbug 2.63
+12	X-Mailer: Novell GroupWise Internet Agent 6.5.1
+12	X-Mailer: Ximian Evolution 1.0.8 (1.0.8-9.7x.1) 
+12	X-Mailer: AT&T Message Center Version 1 (Sep 14 2004)
+12	X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+12	X-Mailer: Openwave WebEngine, version 2.8.12 (webedge20-101-197-20030912)
+12	X-Mailer: Mozilla 4.76 [en] (Win98; U)
+12	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.3) Gecko/20040910
+12	User-Agent: KMail/kroupware-1.0.1
+12	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.6) Gecko/20040113
+12	User-Agent: Mozilla Thunderbird 0.5 (X11/20040208)
+12	User-Agent: Google Groups/0.1
+12	User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.2) Gecko/20040815
+12	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.2) Gecko/20040803 [ http://iworks.at ]
+12	X-Mailer: SquirrelMail (version 1.2.11)
+12	User-Agent: Mozilla Thunderbird 0.8 (X11/20041009)
+12	X-Mailer: QUALCOMM Windows Eudora Version 6.0.1.1
+12	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a4) Gecko/20040925
+12	X-Mailer: PocoMail 2.63 (1077) - Licensed Version
+11	X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+11	X-Mailer: Mozilla 4.75 [en] (Windows NT 5.0; U)
+11	X-Mailer: Mulberry/3.1.6 (Linux/x86)
+11	X-Mailer: Evolution 2.1.0 
+11	User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.1
+11	User-Agent: Mozilla Thunderbird 0.8 (X11/20040917)
+11	X-Mailer: The Bat! (v1.51) Personal
+11	X-Mailer: Open WebMail 2.10 20030826
+11	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT;
+11	X-Mailer: The Bat! (v1.52f) Business
+11	User-Agent: SquirrelMail/1.4.3a-0.e3.1
+11	X-Mailer: Ximian Evolution 1.4.6 (1.4.6-2.plus.03.pri) 
+11	X-Mailer: Novell GroupWise Internet Agent 6.0.4
+11	X-Mailer: Lotus Notes Release 5.0.12   February 13, 2003
+11	User-Agent: Gnus/5.1006 (Gnus v5.10.6) XEmacs/21.5 (chayote, linux)
+11	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR;
+11	X-Mailer: OstroSoft SMTP Component (5.0.4)
+11	User-Agent: Opera M2/7.54 (Linux, build 751)
+11	X-Mailer: Novell GroupWise Internet Agent 6.5.1 
+11	X-Mailer: The Bat! (v1.62r) Business
+11	X-Mailer: SquirrelMail/1.4.3a-0.e3.1
+11	X-Mailer: QUALCOMM Windows Eudora Version 6.2.0.7 (Beta)
+11	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4; MultiZilla v1.5.0.3g) Gecko/20031007
+11	X-Mailer: 3.2.0-6 [Sep  8 2004, 22:42:43]
+11	User-Agent: Windows Eudora Pro Version 2.2 (32)
+10	X-Mailer: Microsoft Outlook Express 6.00.2900.2096
+10	X-Mailer: Sylpheed version 0.9.10claws (GTK+ 1.3.0; Win32)
+10	User-Agent: Mozilla Thunderbird 0.8 (X11/20041005)
+10	User-Agent: SquirrelMail/1.4.1
+10	X-Mailer: The Bat! (v2.04.7) Personal
+10	X-Mailer: Ximian Evolution 1.4.6-2.1.92mdk 
+10	X-Mailer: WebMail Version 2.0
+10	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040514
+10	X-Mailer: despammed.com
+10	X-Mailer: ELM [version 2.5 PL0pre8]
+10	X-Mailer: The Bat! (v2.00.6) Personal
+10	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a4) Gecko/20040913
+10	User-Agent: Wanderlust/2.10.0 (Venus) SEMI/1.14.4 (Hosorogi) FLIM/1.14.4
+10	X-Mailer: Mozilla 4.72 [en] (Win98; I)
+10	User-Agent: Internet Messaging Program (IMP) 3.1
+10	User-Agent: eGroups Message Poster
+10	X-Mailer: Ximian Evolution 1.4.6-1mdk 
+10	X-Mailer: Evolution 2.0.1
+10	X-Mailer: Mew version 3.3 on Emacs 21.3 / Mule 5.0 (SAKAKI)
+10	X-Mailer: TWIG 2.8.0-alpha2
+10	User-Agent: Gnus/5.1002 (Gnus v5.10.2) XEmacs/21.4 (Rational FORTRAN,
+10	X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+10	X-Mailer: DvISE by Tobit Software, Germany (0224.434945454A47474B5052)
+10	X-Mailer: AOL 7.0 for Windows US sub 118
+10	X-Mailer: SquirrelMail (version 1.2.8)
+10	User-Agent: tin/1.4.4-20000803 ("Vet for the Insane") (UNIX) (SunOS/5.8 (sun4u))
+10	User-Agent: Mozilla Thunderbird 0.5 (X11/20040309)
+10	User-Agent: MT-NewsWatcher/3.4 (PPC Mac OS X)
+10	User-Agent: Pine.SGI.4.10
+10	X-Mailer: Calypso Version 3.30.00.00 (4)
+10	X-Mailer: eGroups Message Poster
+10	X-Mailer: Evolution 1.5.93 
+10	User-Agent: MOMENTUM (3.0 build(25) [Asynch])
+10	X-Mailer: Denshin 8 Go V32.1.4.3
+10	User-Agent: CBN WebMail/2.0
+10	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3a) Gecko/20021212
+10	X-Mailer: indomail (version 3.1.2)
+10	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.7) Gecko/20040616
+10	X-Mailer: oMail 0.98.4 - http://webmail.omnis.ch
+10	X-Mailer: Yamail [ http://yandex.ru ]
+9	X-Mailer: PHP
+9	User-Agent: Pan/0.14.2 (This is not a psychotic episode. It's a cleansing
+9	X-mailer: Foxmail 4.2 [cn]
+9	User-Agent: Gnus/5.1003 (Gnus v5.10.3) Emacs/21.3.50 (gnu/linux)
+9	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.7.2) Gecko/20040806
+9	User-Agent: SquirrelMail/1.4.3a-0.f1.1
+9	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20041007 Debian/1.7.3-5
+9	X-Mailer: eSupport v2
+9	X-Mailer: COM 3.84.5
+9	X-Mailer: ubersmith 2.2.1, PHP/4.3.2
+9	X-Mailer: Webmail
+9	X-Mailer: Calypso Version 3.30.00.00 (3)
+9	X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v 0.9.16.000
+9	X-Mailer: Mozilla 4.78 [en] (Windows NT 5.0; U)
+9	X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+9	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040819)
+9	X-Mailer: Internet Mail Service (5.5.2654.89)
+9	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.7.3) Gecko/20040914
+9	X-Mailer: Apple Mail (2.667)
+9	X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+9	User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+9	X-Mailer: The Bat! (v3.0.2.1) Professional
+9	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.1) Gecko/20040707
+9	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)
+9	X-Mailer: Mozilla 4.7 [en] (WinNT; I)
+9	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6b) Gecko/20031205 Thunderbird/0.4
+9	User-Agent: Mutt/1.5.3i
+9	User-Agent: aspmail 2.31
+9	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.8a4) Gecko/20040927
+9	X-Mailer: IncrediMail 2001 (1850931)
+9	User-Agent: Mozilla Thunderbird 0.8 (X11/20040922)
+9	X-Mailer: The Bat! (v2.10.03)         CD5BF9353B3B7091
+9	X-Mailer: SquirrelMail/1.4.3a-0.f1.1
+9	User-Agent: Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)
+9	User-Agent: Mozilla Thunderbird 0.8 (X11/20041011)
+8	X-Mailer: Mozilla 4.8 [en] (X11; U; Linux 2.6.8 i686)
+8	User-Agent: Internet Messaging Program (IMP) 4.0-cvs
+8	X-Mailer: Microsoft Outlook Express 6.00.2800.1082
+8	X-Mailer: Evolution 1.5.9.2 (1.5.9.2-1) 
+8	X-Mailer: Sylpheed-Claws 0.9.12b (GTK+ 1.2.10; i386-redhat-linux-gnu)
+8	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a3) Gecko/20040901
+8	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.1) Gecko/20031030
+8	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.26 (built Mar 31 2004)
+8	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4)
+8	X-Mailer: Becky! ver. 2.11.02 [CN]
+8	X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+8	X-Mailer: Ximian Evolution 1.4.4-8mdk 
+8	X-Mailer: Microsoft Outlook Express 5.50.4922.1500
+8	X-Mailer: The Bat! (v3.0.1 RC7) Professional
+8	X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
+8	User-Agent: Mutt/1.3.27i
+8	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7)
+8	X-Mailer: Microsoft Internet E-mail/MAPI - 8.0.0.4211
+8	User-Agent: KNode/0.8.1
+8	X-Mailer: MIME-tools 5.503 (Entity 5.501)
+8	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6) Gecko/20040113
+8	X-Mailer: Ximian Evolution 1.4.5-4mdk 
+8	User-Agent: Mutt/1.5.6+20040803i
+8	User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.0.3
+8	X-Mailer: Mirapoint Webmail Direct 3.5.4-GR
+8	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.6) Gecko/20040113
+8	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.4) Gecko/20040414
+8	X-Mailer: WorldClient 6.8.4
+8	X-Mailer: Becky! ver. 2.11.02 [en]
+8	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040925
+8	X-Mailer: Microsoft Outlook Express 6.00.2479.0001
+8	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.3) Gecko/20040803
+8	X-Mailer: The Bat! (v3.0.1 RC5) Home
+8	User-Agent: Mozilla Thunderbird 0.5 (X11/20040306)
+8	X-Mailer: MIME-tools 5.503 (Entity 5.501)
+8	User-Agent: 40tude_Dialog/2.0.14.1
+8	X-Mailer: CommuniGate Pro WebUser Interface v.4.1.6
+8	X-Mailer: mPOP Web-Mail 2.19
+8	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.6b) Gecko/20031205 Thunderbird/0.4
+8	User-Agent: CentrinWebMail/1.4.2
+8	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT;
+8	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.5) Gecko/20031007
+8	X-Mailer: Microsoft Outlook Express 6.00.3790.181
+8	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.3) Gecko/20041012
+8	User-Agent: KNode/0.7.2
+8	X-Mailer: GruWo OS Mutt
+8	X-Mailer: Pegasus Mail for Win32 (v3.12a)
+8	X-Mailer: Balsa 2.0.17
+8	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3) Gecko/20030313
+8	User-Agent: Microsoft-Entourage/9.0.2.4011
+7	X-Mailer: Lotus Notes Release 6.0 September 26, 2002
+7	User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US;
+7	User-Agent: Gnus/5.090018 (Oort Gnus v0.18) Emacs/21.2 (gnu/linux)
+7	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; i686-pc-linux-gnu)
+7	X-Mailer: Microsoft Outlook, Build 10.0.4510
+7	X-Mailer: NetMail ModWeb Module
+7	X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+7	X-Mailer: The Bat! (v1.52f) Business
+7	User-Agent: Mozilla/5.001 (windows; U; NT4.0; en-us) Gecko/25250101
+7	X-Mailer: Ximian Evolution 1.0.5 
+7	X-Mailer: VM 7.18 under 21.4 (patch 13) "Rational FORTRAN" XEmacs Lucid
+7	User-Agent: Opera M2/7.50 (Win32, build 3778)
+7	X-Mailer: Sylpheed-Claws 0.9.12 (GTK+ 1.2.10; i686-pc-linux-gnu)
+7	X-Mailer: Mew version 2.3 on Emacs 20.7 / Mule 4.1
+7	X-Mailer: The Bat! (v2.10.03) £îñ»« £ùñ»«
+7	X-Mailer: Kana Connect 6
+7	User-Agent: Pan/0.14.2 (This is not a psychotic episode. It's a cleansing moment of clarity.)
+7	X-Mailer: Windows Eudora Light Version 1.5.2
+7	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; hu-HU; rv:1.7.3) Gecko/20040910
+7	X-Mailer: The Bat! (v1.62 Christmas Edition) Personal
+7	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.1) Gecko/20020823 Netscape/7.0
+7	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.14 (built Nov 18 2003)
+7	X-Mailer: FoxMail 4.0 beta 2 [cn]
+7	User-Agent: Mozilla Thunderbird 0.6 (X11/20040529)
+7	X-Mailer: Mozilla 4.8 [en] (Windows NT 5.0; U)
+7	X-Mailer: The Bat! (v2.11.02) Business
+7	User-Agent: Mozilla Thunderbird 0.8 (X11/20041014)
+7	X-Mailer: Ximian Evolution 1.0.8 
+7	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20041002)
+7	X-Mailer: SquirrelMail (version 1.2.6)
+7	X-Mailer: PocoMail 3.01 (1661) - Licensed Version
+7	X-Mailer: Mulberry/2.2.1 (Win32)
+7	X-Mailer: Divmod-Quotient/trunk-HEAD
+7	X-Mailer: AustroMail.at -- Das oesterreichische Webmail!
+7	User-Agent: Xnews/06.08.25
+7	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5) Gecko/20031007
+7	X-Mailer: eGroups Message Poster
+7	X-Mailer: Internet Mail Service (5.5.2650.21)
+7	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.25 (built Mar  3 2004)
+7	X-Mailer: <WinNT's Blat ver 1.7J>
+7	X-Mailer: VM 6.92 under Emacs 21.3.1
+7	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.6) Gecko/20040413 Debian/1.4-6 StumbleUpon/1.904
+7	User-Agent: Gnus/5.110003 (No Gnus v0.3) XEmacs/21.4 (Security Through
+7	X-Mailer: phpmailer [version 1.62]
+7	X-Mailer: VM 7.18 under Emacs 21.3.1
+6	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6b) Gecko/20031205 Thunderbird/0.4
+6	X-Mailer: The Bat! (v2.00) UNREG / CD5BF9353B3B7091
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041010
+6	User-Agent: KMail/1.4.1
+6	X-Mailer: IncrediMail (2501361)
+6	X-Mailer: SquirrelMail/1.4.2
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.2) Gecko/20040803
+6	X-Mailer: Open WebMail 2.30 20040430
+6	X-Mailer: Evolution 2.0.0-1mdk 
+6	X-Mailer: Ximian Evolution 1.0.8 (1.0.8-10) 
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040114
+6	User-Agent: T-gnus/6.15.7 (based on Oort Gnus v0.08) SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 MULE XEmacs/21.4 (patch 15) (Security Through Obscurity) (i386-debian-linux)
+6	X-Mailer: PocoMail 3.2 (2000) - Licensed Version
+6	X-Mailer: Becky! ver. 2.09.01 [ja]
+6	X-Mailer: Mutt 1.0.1i
+6	X-Mailer: The Bat! (v3.0.1.33) Professional
+6	X-Mailer: MH-E 7.4; nmh 1.0.4; GNU Emacs 21.3.1
+6	X-Mailer: Lotus Notes Release 6.0.1CF1 March 04, 2003
+6	X-Mailer: Barca 1.0 (700) - Licensed Version
+6	X-Mailer-Info: http://www.vinc17.org/mutt/
+6	X-Mailer: Ximian Evolution 1.4.5 (1.4.5-7)
+6	User-Agent: XanaNews/1.16.4.1
+6	X-Mailer: Mew version 4.0.65 on Emacs 21.3 / Mule 5.0 (SAKAKI)
+6	X-Mailer: QUALCOMM Windows Eudora Version 6.0.0.14 (Beta)
+6	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US;
+6	User-Agent: Microsoft-Entourage/10.0.0.1309
+6	X-Mailer: The Bat! (v1.52f) Personal
+6	X-Mailer: servicemail.theplanet.com
+6	X-Mailer: Apple Mail (2.612)
+6	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; i386-vine-linux-gnu)
+6	X-Mailer: Lotus Notes Release 5.0.7  March 21, 2001
+6	X-Mailer: Sylpheed-Claws 0.9.12cvs65.1 (GTK+ 2.4.10; i386-pc-linux-gnu)
+6	X-Mailer: The Bat! (v3.0.1 RC4) Home
+6	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040823)
+6	User-Agent: Gnus/5.1006 (Gnus v5.10.6) Emacs/21.3.50 (gnu/linux)
+6	X-Mailer: Open WebMail 2.40 20040816
+6	User-Agent: Gnus/5.1002 (Gnus v5.10.2) XEmacs/21.4 (Rational FORTRAN, linux)
+6	X-Mailer: FoxMail 3.11 Release [cn]
+6	X-Mailer: MIME::Lite 1.3  (F2.71; T1.001; A1.51; B2.12; Q2.03)
+6	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.3)
+6	X-Mailer: Forte Agent 1.92/32.572
+6	User-Agent: nail 10.4 1/19/03
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6b) Gecko/20031210
+6	User-Agent: AspMail 4.0 4.03 (SMT470603F)
+6	User-Agent: Mozilla Thunderbird 0.6 (Macintosh/20040502)
+6	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6)
+6	X-Mailer: The Bat! (v2.10.03)
+6	User-Agent: Gnus/5.110002 (No Gnus v0.2) Emacs/21.3 (gnu/linux)
+6	X-Mailer: Mahogany 0.66.0 'Clio', running under Windows NT 5.0 (build 2195, Service Pack 4)
+6	User-Agent: aspmail 3.02
+6	X-Mailer: The Bat! (v3.0.1 RC5) Professional
+6	X-Mailer: IncrediMail 2001 (1750710)
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040927
+6	User-Agent: Mozilla/5.0 (Windows; U; WinNT4.0; en-US;
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040919
+6	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040809)
+6	X-Mailer: QUALCOMM Windows Eudora Version 5.0
+6	X-Mailer: Ximian Evolution 1.4.5.2 
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; hu; rv:1.7.2) Gecko/20040804
+6	X-Mailer: Microsoft Outlook, Build 10.0.3416
+6	User-Agent: Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.6) Gecko/20040115
+5	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.3) Gecko/20041013
+5	User-Agent: MicroPlanet-Gravity/2.70.2067
+5	X-Mailer: Mew version 3.3 on Emacs 20.7 / Mule 4.0 (HANANOEN)
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041001 Debian/1.7.3-3
+5	X-Mailer: AT&T Message Center Version 1 (Jul 19 2004)
+5	X-Mailer: The Bat! (v2.12.00) Educational
+5	X-Mailer: Mulberry/3.1.5 (Win32)
+5	X-Mailer: Ximian Evolution 1.4.4 
+5	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.14 (built Nov 18 2003)
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030624
+5	X-Mailer: CrossPoint v3.12d.kh14 R/C435
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030922
+5	User-Agent: Gnus/5.11 (Gnus v5.11) Emacs/21.3.50 (gnu/linux)
+5	X-Mailer: <SMTP32 v8.05>
+5	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB;
+5	X-Mailer: AOL 7.0 for Windows US sub 118
+5	X-Mailer: The Bat! (v2.10.03) Business
+5	User-Agent: Mozilla Thunderbird 0.8 (X11/20041001)
+5	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; i386-redhat-linux-gnu)
+5	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.7b) Gecko/20040319
+5	X-Mailer: aspNetEmail ver 2.5.0.0
+5	X-mailer: Pegasus Mail for Windows (v4.11)
+5	X-Mailer: WorldClient 6.8.5
+5	User-Agent: SquirrelMail/1.4.2-1
+5	X-Mailer: The Bat! (v3.0.1.33) Home
+5	X-Mailer: IncrediMail (3001524)
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; rv:1.7.3) Gecko/20040926 Thunderbird/0.8 Mnenhy/0.6.0.104
+5	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-AT;
+5	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.7.2) Gecko/20040803
+5	User-Agent: Noworyta News Reader/2.9
+5	X-Mailer: MIME-tools 5.411 (Entity 5.404)
+5	X-Mailer: Ximian Evolution 1.4.6 (1.4.6-2.dwmw2.1) 
+5	X-Mailer: Mutt http://www.mutt.org/
+5	X-Mailer: JapfaMailEdited Edition v1.0
+5	User-Agent: slrn/0.9.7.4 (Linux)
+5	X-Mailer: MH-E 7.4.2; nmh 1.0.4+dev; XEmacs 21.4 (patch 15)
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5) Gecko/20031021
+5	X-Mailer: SNetLine WebMail by Schliepi
+5	X-Mailer: ELM [version 2.5 PL6]
+5	X-Mailer: Webmail Mirapoint Direct 3.2.2-GA
+5	X-Mailer: oMail 0.98.2 - http://webmail.omnis.ch
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040914
+5	User-Agent: MOMENTUM (3.0 build(25) [Asynch])
+5	X-Mailer: Forte Agent 1.8/32.548
+5	User-Agent: Mozilla Thunderbird 0.8 (Windows/20040928)
+5	User-Agent: 40tude_Dialog/2.0.12.1de
+5	User-Agent: Microsoft CDO for Windows 2000
+5	X-Mailer: Microsoft Outlook, Build 11.0.5207
+5	X-Mailer: Ximian Evolution 1.0.8 (1.0.8-11) 
+5	X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+5	X-Mailer: Open WebMail 2.20 20031014
+5	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040906
+5	User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.3.50
+5	X-Mailer: MSN Explorer 7.02.0011.2700
+5	X-Mailer: exmh version 2.7.0 06/18/2004 with nmh-1.0.4
+5	User-Agent: Opera M2/7.53 (Linux, build 737)
+5	X-Mailer: cargo bay 302 mirrors
+5	User-Agent: Mozilla Thunderbird 0.8 (X11/20040928)
+5	X-Mailer: Sylpheed version 0.9.12-gtk2-20040617 (GTK+ 2.4.10; i386-pc-linux-gnu)
+5	User-Agent: Messenger-Pro/2.71 (MsgServe/2.13S) (RISC-OS/5.07)
+5	X-Mailer: The Bat! (v2.01)
+5	User-Agent: aol for macintosh sub 7
+5	User-Agent: Microsoft-Entourage/10.1.1.2418
+5	X-Mailer: Open WebMail 2.30 20040131
+5	User-Agent: NewsPortal 0.24pre9, http://florian-amrhein.de/newsportal/
+5	X-Mailer: Windows Eudora Pro Version 2.2 (32)
+5	X-Mailer: CTM PowerMail 4.2.1 us Carbon <http://www.ctmdev.com>
+5	X-Mailer: Mozilla 4.5 [en]C-CCK-MCD {Lou-Telecom.net}  (Win98; I)
+5	User-Agent: Mutt/1.5.1i
+5	User-Agent: Opera M2/7.53 (Win32, build 3850)
+5	User-Agent: Mutt/1.3.22.1i
+5	User-Agent: Mozilla Thunderbird 0.8 (X11/20040923)
+5	X-Mailer: exmh version 2.6.3-CL 04/04/2003 with nmh-1.0.4
+4	X-Mailer: Mutt 1.5.6i   http://www.mutt.org/
+4	X-Mailer: Foxmail 4.2 [cn]
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040809
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i586; en-US;
+4	User-Agent: at&t message center version 1 feb 25 2002
+4	X-Mailer: anukabietTzorncaz 0.4
+4	X-Mailer: Mew version 4.0.64 on Emacs 21.3 / Mule 5.0 (SAKAKI)
+4	X-Mailer: QUALCOMM Windows Eudora Version 6.1.0.6
+4	X-mailer: Pegasus Mail for Windows (v4.02a)
+4	User-Agent: egroups message poster
+4	User-Agent: KMail/1.5.2
+4	X-Mailer: The Bat! (v1.61)
+4	X-Mailer: Mozilla 4.78 [en]C-CCK-MCD   (Windows NT 5.0; U)
+4	User-Agent: 007  ;-)
+4	User-Agent: Mozilla Thunderbird 0.8 (X11/20041006)
+4	User-Agent: Mozilla/5.0 (Windows; U; WinNT; en;
+4	X-Mailer: Internet Mail Service (5.5.2656.59)
+4	X-Mailer: Ximian Evolution 1.4.6-5mdk 
+4	X-Mailer: WorldClient 7.1.2
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041001
+4	X-Mailer: Mozilla 4.78 [en] (X11; U; Linux 2.2.25glock1 i686)
+4	X-Mailer: The Bat! (v2.10.01)
+4	X-Mailer: Datula version 1.52.01 for Windows
+4	X-Mailer: Mozilla 4.8 [en] (X11; U; Linux 2.4.18-3 i686)
+4	User-Agent: Mozilla Thunderbird 0.8 (X11/20041008)
+4	X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v 0.9.16.003
+4	X-Mailer: Evolution 1.5.91 
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4) Gecko/20030624
+4	X-Mailer: Usermin 1.090
+4	X-Mailer: The Bat! (v1.62r) Personal
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20040913 Thunderbird/0.8 Mnenhy/0.6.0.104
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a4) Gecko/20040927
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.0) Gecko/20020623 Debian/1.0.0-0.woody.1
+4	User-Agent: XanaNews/1.16.4.2 Hamster/2.0.0.1
+4	X-Mailer: Microsoft Outlook Express 4.72.3612.1700
+4	User-Agent: Beam for Zeta "Neo"
+4	User-Agent: Wanderlust/2.9.9 (Unchained Melody) SEMI/1.14.3 (Ushinoya)
+4	X-Mailer: MIME-tools 5.41 (Entity 5.404)
+4	X-Mailer: Ximian Evolution 1.2.0 
+4	X-Mailer: reportbug 2.99.3
+4	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.0.2) Gecko/20030208 Netscape/7.02 (CDonDemand-Dom)
+4	X-Mailer: Mailsmith 2.1.4 (Blindsider)
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a3) Gecko/20040817
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.6) Gecko/20040113
+4	X-Mailer: SquirrelMail (version 1.2.5)
+4	X-Mailer: Evolution 2.0.1 (2.0.1-2)
+4	User-Agent: Mozilla Thunderbird 0.8 (X11/20040920)
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.7.3) Gecko/20040910
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.1) Gecko/20040406
+4	User-Agent: Mozilla Thunderbird 0.7 (Macintosh/20040616)
+4	X-Mailer: Evolution 2.0.1 (2.0.1-0.mozer.2)
+4	User-Agent: Vim/Mutt/Linux
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8a3) Gecko/20040817
+4	X-Mailer: Sylpheed version 0.9.11 (GTK+ 1.2.10; i686-pc-linux-gnu)
+4	X-Mailer: Groupwise 6.5
+4	X-mailer: Pegasus Mail for Win32 (v3.12c)
+4	User-Agent: Mozilla Thunderbird 0.8 (Windows/20041013)
+4	X-Mailer: Mozilla 4.76 [en] (X11; U; SunOS 5.7 sun4u)
+4	X-Mailer: corporation 53 cups
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20040928 Debian/1.7.3-2
+4	X-Mailer: The Bat! (v2.10.01) Business
+4	User-Agent: Internet Messaging Program (IMP) 3.2
+4	User-Agent: Mozilla Thunderbird 0.8 (Windows/20040918)
+4	X-Mailer: MIME::Lite 3.01 (F2.71; T1.13; A1.62; B3.00; Q3.00)
+4	X-Mailer: Microsoft CDO for Exchange 2000
+4	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7.3) Gecko/20040910
+4	X-Mailer: UebiMiau 2.7
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.6) Gecko/20040413 Debian/1.6-5
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040312
+4	X-Mailer: WorldClient 6.8.4
+4	User-Agent: MacSOUP/F-2.6.1 (Mac OS X version 10.3.5)
+4	X-Mailer: wheelbarrow 0789 bubble baths
+4	User-Agent: slrn/0.9.8.0 (CYGWIN_NT-5.1)
+4	X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+4	X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+4	X-Mailer: QUALCOMM Windows Eudora Version 5.0
+4	User-Agent: tin/1.6.2-20030910 ("Pabbay") (UNIX) (Linux/2.6.8.1-cko8 (i686))
+4	X-Mailer: Apple Mail (2.613)
+4	X-Mailer: pofHQ wapMAIL 1.4beta3
+4	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6)
+4	X-Mailer: MIME::Lite 2.117  (F2.6)
+4	X-Mailer: IceWarp Web Mail 5.2.8
+4	User-Agent: Microsoft-Entourage/10.1.4.030702.0
+4	User-Agent: Unison/1.5.2
+4	User-Agent: Mozilla Thunderbird 0.8 (X11/20041003)
+4	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030624 Netscape/7.1
+4	X-Mailer: Forte Agent 1.93/32.576 English (American)
+4	X-Mailer: 
+4	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.2) Gecko/20040803
+4	User-Agent: Opera M2/7.52 (Win32, build 3834)
+4	User-Agent: Mozilla Thunderbird 0.8 (Macintosh/20040930)
+4	User-Agent: Wanderlust/2.11.30 (Wonderwall) SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 Emacs/21.3 (ia64-redhat-linux-gnu) MULE/5.0 (SAKAKI)
+4	User-Agent: Mozilla Thunderbird 0.5+ (Windows/20040326)
+4	X-Mailer: Novell GroupWise Internet Agent 6.5.3 Beta
+4	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US;
+3	User-Agent: Mozilla Thunderbird 0.7 (X11/20040624)
+3	User-Agent: microsoft outlook express 5.50.4522.1200
+3	User-Agent: Rodriquezmail v9.8
+3	X-Mailer: exmh version 2.5 07/13/2001 (debian 2.5-1) with nmh-1.1
+3	User-Agent: Mozilla Thunderbird 0.7.1 (X11/20040713)
+3	User-Agent: Mozilla Thunderbird 0.7a (Windows/20040614)
+3	User-Agent: Gnus/5.1001 (Gnus v5.10.1) XEmacs/21.4 (Common Lisp, linux)
+3	X-Mailer: Evolution 2.0.1 (2.0.1-4.ufn.fc2) 
+3	X-Mailer: Unknown (No Version)
+3	X-Mailer: Microsoft Outlook, Build 10.0.6626
+3	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040912)
+3	User-Agent: KMail/1.5.3
+3	X-Mailer: The Bat! (v1.45) Educational
+3	X-Mailer: 3.1.137-30 [Apr 30 2004, 12:11:43]
+3	X-Mailer: Mutt 1.4.1i (2003-03-19)
+3	X-Mailer: proficient acquittal 
+3	X-Mailer: Sylpheed version 0.9.99 (GTK+ 1.2.10; i386-pc-linux-gnu)
+3	X-Mailer: InMail Insite [www.insite.com.br] - iGMail [www.ig.com.br]
+3	X-Mailer: non specified
+3	X-Mailer: The Bat! (v1.42) Educational
+3	X-Mailer: Mozilla 4.51 [es] (WinNT; I)
+3	X-Mailer: particle accelerator 04 necromancers
+3	X-Mailer: reportbug 2.99.6
+3	X-Mailer: Ximian Evolution 1.2.2 (1.2.2-5)
+3	User-Agent: Opera7.21/Linux M2 build 480
+3	X-Mailer: Sylpheed version 0.9.99 (GTK+ 1.2.10; i686-pc-linux-gnu)
+3	X-Mailer: PowerMail - http://www.indosolution.com
+3	X-mailer: Pegasus Mail for Win32 (v3.11)
+3	X-Mailer: liar aforesaid bob powers 
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a1) Gecko/20040520
+3	User-Agent: aspmail 2.533
+3	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20040930
+3	X-Mailer: Turnpike Integrated Version 5.01 S <OiCVP39u7LTPnlUJ2Mq5Uxpyo2>
+3	X-Mailer: Microsoft Outlook Express 5.50.4807.1700
+3	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7.1) Gecko/20040707
+3	X-Mailer: Mozilla 4.7 [en] (X11; I; IRIX 6.5 IP22)
+3	X-Mailer: The Bat! (v2.00) Personal
+3	X-Mailer: The Bat! (v1.63 Beta/7) Business
+3	User-Agent: SquirrelMail/2.0
+3	X-Mailer: 9.0 for Windows sub 5032
+3	X-Mailer: 9.0 for Windows sub 5004
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.7.3) Gecko/20040910
+3	X-Mailer: Lotus Notes Release 5.0.6a  January 17, 2001
+3	X-Mailer: 3.1.138-9 [Jun 10 2004, 21:31:27]
+3	X-Mailer: QUALCOMM Windows Eudora Version 4.3.1
+3	User-Agent: Mozilla Thunderbird 0.8 (X11/20040927)
+3	X-Mailer: enlqq nswgvhhdy
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4)
+3	X-Mailer: Interfejs WWW poczty Wirtualnej Polski
+3	X-Mailer: hemlock cumin tyrant 
+3	X-Mailer: Open WebMail 1.70 20020712
+3	X-Mailer: QUALCOMM Windows Eudora Pro Version 4.2.0.58 
+3	X-Mailer: Openwave WebEngine, version 2.8.10.1 (webedge20-101-191-105-20030415)
+3	X-Mailer: SquirrelMail (version 1.2.10)
+3	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040909)
+3	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.0.0) Gecko/20020530
+3	X-Mailer: Becky! ver. 2.07.01
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.8a3) Gecko/20040817
+3	X-Mailer: <Super SMTP ActiveX Control(°æÈ¨ËùÓÐSuper Group http://www.hynnet.com/)>
+3	X-Mailer: swigging lingerie V6.88
+3	User-Agent: Opera M2/7.50 (Win32, build 3658)
+3	X-Mailer: JoyMail 1.48
+3	User-Agent: Gnus/5.1006 (Gnus v5.10.6) Emacs/21.1 (gnu/linux)
+3	X-Mailer:  
+3	X-Mailer: explanatory beget 
+3	X-Mailer: Lotus Notes Release 5.0.9  November 16, 2001
+3	X-Mailer: Becky! ver. 2.09.01 [en]
+3	User-Agent: Gnus/5.1002 (Gnus v5.10.2) XEmacs/21.4 (Common Lisp, linux)
+3	X-Mailer: Evolution 2.0.1 Rubber Turnip www.usr-local-bin.org 
+3	User-Agent: KNode/0.7.6
+3	User-Agent: Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.4) Gecko/20040414
+3	User-Agent: Internet Messaging Program (IMP) 3.2.6
+3	X-Mailer: Mozilla 4.73 [en] (Win98; U)
+3	X-Mailer: Microsoft Outlook Express 6.00.2600.0000ams
+3	X-Mailer: XFMail 1.5.4 on Linux
+3	X-Mailer: The Bat! (v2.00.4) Personal
+3	X-Mailer: Ximian Evolution 1.4.6
+3	X-Mailer: WorldClient Pro 2.2.0
+3	X-Mailer: QUALCOMM Windows Eudora Version 6.0.3.0
+3	User-Agent: T-gnus/6.15.7 (based on Oort Gnus v0.08) SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 Emacs/21.3 (i386-pc-linux-gnu) MULE/5.0 (SAKAKI)
+3	User-Agent: SquirrelMail/1.4.2 [CVS]
+3	User-Agent: Wanderlust/2.11.30 (Wonderwall) SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 Emacs/21.3 (i386-pc-linux-gnu) MULE/5.0 (SAKAKI)
+3	X-Mailer: Microsoft Outlook Express 6.00.2800.1120
+3	X-Mailer: Mintersoft VisualMail, Build 4.0.111601
+3	X-Mailer: PaginasAmarillas.com 2.30 20040103
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.0.1) Gecko/20020823 Netscape/7.0
+3	X-Mailer: demon alchemists near 78
+3	X-Mailer: WorldClient 7.2.0
+3	X-Mailer: MH-E 7.81; nmh 1.0.4; XEmacs 21.4 (patch 15)
+3	X-Mailer: <SMTP32 v8.02>
+3	X-Mailer: MailCity Service
+3	X-Mailer: aspNetEmail ver 2.5.0.0
+3	X-Mailer: Dbowdoin 3.64
+3	X-Mailer: Hastymail 0.9
+3	X-Mailer: Mew version 4.0.64 on XEmacs 21.4.15 (Security Through Obscurity)
+3	X-Mailer: Free WebMail POCHTA.RU
+3	X-Mailer: The Bat! (v1.60m)
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.7.2) Gecko/20040803
+3	X-Mailer: PowWeb Hosting Webmail version 3.0
+3	User-Agent: Opera7.20/Win32 M2 build 3144
+3	X-Mailer: VM 7.03 under 21.4 (patch 6) "Common Lisp" XEmacs Lucid
+3	User-Agent: Gnus/5.090004 (Oort Gnus v0.04) Emacs/21.3
+3	X-Mailer: Lotus Notes Release 5.0.9a  January 7, 2002
+3	X-Mailer: Becky! ver 1.25.07
+3	User-Agent: Mutt/1.3.99i
+3	X-Mailer: Lotus Notes Release 5.07a  May 14, 2001
+3	User-Agent: Gnus/5.1006 (Gnus v5.10.6) Emacs/21.3.50 (darwin)
+3	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.18 (built Jul 28 2003)
+3	User-Agent: Mozilla Thunderbird 0.6 (X11/20040713)
+3	User-Agent: MicroPlanet-Gravity/2.60.2060
+3	X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2910.0)
+3	User-Agent: Gnus/5.110003 (No Gnus v0.3) XEmacs/21.4 (Common Lisp, linux)
+3	X-Mailer: ELM [version 2.4 PL23]
+3	X-Mailer: cupboard autograph electro (445.26.767)
+3	X-Mailer: Evolution 1.5.93 (1.5.93-2) 
+3	X-Mailer: Ximian Evolution 1.4.0 
+3	X-Mailer: Schmaili 4.0
+3	User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.1) Gecko/20040728
+3	User-Agent: Mozilla/5.0 (X11; U; Linux i686; rv:1.7.3) Gecko/20040917 Thunderbird/0.8 Mnenhy/0.6.0.104
+3	X-Mailer: MSN 9
+3	User-Agent: Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.2.1) Gecko/20030228
+3	X-Mailer: POBOX (mico's engine 5.0/4.0.1)
+3	X-Mailer: Lotus Notes Release 6.0.1 February 07, 2003
+3	X-Mailer: 6.0 sub 12
+3	X-Mailer: IncrediMail (3001579)
+3	X-Mailer: The Bat! (v2.11.02)
+3	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.7.2) Gecko/20040803
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040616 Mnenhy/0.6.0.101
+3	User-Agent: Mozilla/5.0 (X11; U; NetBSD i386; fr-FR; rv:1.7.3) Gecko/20041004
+3	X-Mailer: Dldqvn 8.2
+3	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.3 (windows-nt)
+3	X-Mailer: secretive axial cherub (18.348.6)
+3	X-Mailer: earring 15 pockets
+3	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.3.50 (darwin)
+3	X-Mailer: Mozilla 4.76 [en] (Win95; U)
+3	X-Mailer: someday 
+3	X-Mailer: 
+3	X-Mailer: Mozilla 3.02 (X11; N; Linux 2.6.8-1.521smp i686)
+3	X-Mailer: reportbug 2.64
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4) Gecko/20030612
+3	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.2 (berkeley-unix)
+3	X-Mailer: about 35 but
+3	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1) Gecko/20020827
+3	X-Mailer: mortician cowards beyond 30
+3	X-Mailer: EarthLink MailBox 2004.1.42.0 (Windows)
+3	User-Agent: Gnus/5.1002 (Gnus v5.10.2) XEmacs/21.4 (Reasonable Discussion,
+3	X-Mailer: Ono-Sendai
+3	X-Mailer: Mutt 0.94.15i
+3	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.7.2) Gecko/20040803
+3	X-Mailer: Sylpheed version 0.9.99 (GTK+ 1.2.10; i686-redhat-linux-gnu)
+3	X-Mailer: cabot judaism ana 
+3	X-Mailer: T-Online WebMail 3.10
+3	X-Mailer: IlohaMail/CVS-20040902 (On: mail.1984.cz)
+3	X-Mailer: Kana Connect 6
+3	User-Agent: Gnus/5.1002 (Gnus v5.10.2) Emacs/20.7 (gnu/linux)
+3	X-Mailer: of 831 or
+3	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.3) Gecko/20040917
+3	X-Mailer: Evolution 2.0.1-1mdk 
+3	X-Mailer: AtMail 4.02
+3	User-Agent: Wanderlust/2.10.1 (Watching The Wheels) SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 Emacs/21.3 (i386-pc-linux-gnu) MULE/5.0 (SAKAKI)
+3	X-Mailer: Sylpheed-Claws 0.9.12cvs115.1 (GTK+ 2.4.10; i386-redhat-linux-gnu)
+3	X-Mailer: Centrum Mail 1.0
+3	X-Mailer: Ximian Evolution 1.2.4 
+3	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041013
+2	User-Agent: Internet Messaging Program (IMP) 3.2.3-cvs
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.1) Gecko/20031030
+2	User-Agent: KMail/1.6
+2	X-Mailer: SiteMail 4.02
+2	X-Mailer: servicemail.theplanet.com
+2	X-Mailer: PHPost 1.09 (http://webgadgets.com/phpost/)
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3.1) Gecko/20030428
+2	X-Mailer: Lotus Notes Release 5.0.2b (Intl) 16 December 1999
+2	X-Mailer: Microsoft Outlook Express 4.71.1712.3
+2	X-Mailer: PHP / 4.3.6
+2	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040827)
+2	X-Mailer: Ximian Evolution 1.4.3 
+2	X-Mailer: <IMail v7.14>
+2	User-Agent: Xnews/4.06.22
+2	User-Agent: Opera7.01/Win32 M2 build 2651
+2	X-Mailer: jpQvXDr0b3gpQLv
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; it-IT; rv:1.7.3) Gecko/20040910
+2	X-Mailer: bantam weird
+2	X-Mailer: Microsoft Outlook Express 5.00.2919.6700 floppy dangerous
+2	X-Mailer: QUALCOMM Windows Eudora Version 6.0.0.22
+2	User-Agent: aol 7.0 for windows us sub 118
+2	X-Mailer: Lotus Notes Release 6.5 September 18, 2003
+2	X-Mailer: exmh version 2.1.0 09/18/1999
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040229
+2	X-Mailer: congratulatory chemist
+2	X-Mailer: Produced by Microsoft Outlook, Build 10.0.2616
+2	X-Mailer: around 2 because
+2	X-Mailer: The Bat! (v2.12.03) Educational
+2	X-Mailer: QuickMail Pro 1.5.4 (Mac)
+2	X-Mailer: quirinal modulo legato
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ru-RU; rv:1.7.4) Gecko/20040926
+2	X-Mailer: about 4 and
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030822
+2	X-Mailer: Microsoft Outlook Express 5.00.3018.1300
+2	X-Mailer: Becky! ver. 2.00.8
+2	User-Agent: SquirrelMail/1.4.3 [CVS]
+2	X-mailer: Pegasus Mail for Windows (v4.02)
+2	X-Mailer: Sylpheed version 0.9.11 (GTK+ 1.2.10; i386-pc-linux-gnu)
+2	User-Agent: SquirrelMail/1.4.0-1
+2	X-Mailer: Virtual Access Open Source http://www.virtual-access.org/
+2	X-Mailer: Sylpheed-Claws 0.9.12 (GTK+ 1.2.10; i386-redhat-linux-gnu)
+2	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040830)
+2	X-Mailer: Internet Mail Service (5.5.1960.3)
+2	User-Agent: eGroups Message Poster
+2	X-Mailer: WorldClient 7.1.0
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.0.1) Gecko/20020823 Netscape/7.0
+2	X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+2	X-Mailer: The Bat! (v2.12.00)         CD5BF9353B3B7091
+2	X-Mailer: SquirrelMail/1.4.3 [CVS]
+2	X-Mailer: MRS Internet Mail APL Version 5.12.116 (WIN-NT) Release Build 3995
+2	X-Mailer: The Bat! (v2.04.4)         CD5BF9353B3B7091
+2	X-Mailer: SecureBat! Lite (v2.12.4)         CD5BF9353B3B7091
+2	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.2) Gecko/20040803
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7) Gecko/20040616 Thunderbird/0.7 Mnenhy/0.6.0.101
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.4) Gecko/20030624
+2	X-Mailer: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts)
+2	User-Agent: AspMail 3.0
+2	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.7) Gecko/20040519
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040528 Debian/1.6-7
+2	X-Mailer: 9.0 for Windows sub 5115
+2	X-Mailer: Microsoft Office Outlook, Build 11.0.5510 
+2	X-Mailer: sdsdjsjhsjhsjhsjhjhsd
+2	X-Mailer: 8.0 for Windows sub 660
+2	X-Mailer: Open WebMail 2.41 20040926
+2	X-Mailer: PCOak 0.2
+2	User-Agent: KNode/0.6.1
+2	X-Mailer: Hescritoire 0.85
+2	X-Mailer: SF Webmail
+2	User-Agent: Neotonic Trakken/2.10.18
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)
+2	X-Mailer: Kerio MailServer 6.0.3 WebMail
+2	X-Mailer: Mew version 4.1rc2 on Emacs 21.3.50 / Mule 5.0 (SAKAKI)
+2	X-Mailer: cream puff cigars toward 0089
+2	X-Mailer: Courier 3.50.00.09.1092 (http://www.rosecitysoftware.com) (E)
+2	X-Mailer: InterChange (Hydra) SMTP v3.62
+2	X-Mailer: Evolution 2.0.2 (2.0.2-1)
+2	X-Mailer: Novell GroupWise Internet Agent 5.5.7.1
+2	X-Mailer: Chameleon 4.6, TCP/IP for Windows, NetManage Inc.
+2	X-Mailer: duckling corbett
+2	X-Mailer: Lotus Notes Release 5.0.13   March 9, 2004
+2	User-Agent: Internet Messaging Program (IMP) 3.2.2
+2	X-Mailer: The Bat! (v2.04.7) Educational
+2	X-Mailer: cab driver 3081 starlets
+2	X-Mailer: CommuniGate Pro Web Mailer
+2	X-Mailer: The Bat! (v2.11.02) Personal
+2	User-Agent: Mozilla Thunderbird 0.7.2 (X11/20040728)
+2	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7.2) Gecko/20040804 Netscape/7.2 (ax)
+2	X-Mailer: WorldClient 5.0.4
+2	X-Mailer: afoot aminobenzoic aloof
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a3) Gecko/20040902
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8a5)
+2	X-Mailer: The Bat! (v2.11) Business
+2	X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0.1
+2	User-Agent: Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.7a) Gecko/20040713
+2	User-Agent: Mozilla Thunderbird 0.6+ (X11/20041016)
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.2) Gecko/20040220
+2	X-Mailer: Mozilla 4.79 [en] (WinNT; U)
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.6) Gecko/20040113
+2	X-Mailer: Mail User's Shell (7.2.6 beta(5) 10/07/98)
+2	X-Mailer: The Bat! (v2.00)         CD5BF9353B3B7091
+2	X-Mailer: Ukrpost 2.0 ( Ukrpost:Forever )
+2	X-Mailer: THOR 2.6a (Amiga;TCP/IP)
+2	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; alpha-unknown-linux-gnu)
+2	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040929)
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20040919
+2	X-Mailer: Ximian Evolution 1.2.2 (1.2.2-3) 
+2	User-Agent: tin/1.6.2-20030910 ("Pabbay") (UNIX) (Linux/2.4.21 (i686))
+2	X-Mailer: count hypothalamus
+2	X-Mailer: Oracle Connector for Outlook 9.0.4 50818 (9.0.4527)
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030821
+2	X-Mailer: cloud formation 266 guardian angels
+2	User-Agent: XanaNews/1.16.2.2
+2	X-Mailer: furious faulty explain 
+2	X-Mailer: Atomic Mail Sender 2.36
+2	X-Mailer: 8.0 for Windows sub 6021
+2	X-Mailer: AOL 2.5 for Windows US sub 884
+2	X-Mailer: Apple Mail (2.677)
+2	User-Agent: PTMail Webmail v1.2.5
+2	X-Mailer: Produced by eGroups Message Poster
+2	X-Mailer: checkerberry vide dewar
+2	X-Mailer: IncrediMail 2001 (1850930)
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.5) Gecko/20031007
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.6) Gecko/20040113
+2	X-Mailer: Sylpheed version 0.9.10claws (GTK+ 1.2.10; i586-mandrake-linux-gnu)
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a5) Gecko/20041015
+2	X-Mailer: ubersmith 5.0, PHP/4.3.8-12.1uber
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.7.3) Gecko/20040913
+2	X-Mailer: <SMTP32 v20010131>
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.6) Gecko/20040113
+2	X-mailer: Pegasus Mail for Windows (4.21a)
+2	X-Mailer: CommuniGate Pro Web Mailer v.4.0.6
+2	X-Mailer: PMMail 2000 Professional (2.20.2661) For Windows 2000 (5.0.2195;4)
+2	X-Mailer: DMailWeb Web to Mail Gateway 2.8e, http://netwinsite.com/top_mail.htm
+2	X-Mailer: VisNetic MailFlow 2.0
+2	X-Mailer: Ximian Evolution 1.5.7 
+2	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.3) Gecko/20041007 Debian/1.7.3-5
+2	User-Agent: Mozilla Thunderbird 0.7.1 (X11/20040715)
+2	X-Mailer: nostalgic don spavin 
+2	X-Mailer: puddly dilution
+2	X-Mailer: The Bat! (v3.00.19) Professional
+2	X-Mailer: WebMail 2.3
+2	User-Agent: Wanderlust/2.11.24 (Wonderwall) Emacs/21.2 Mule/5.0 (SAKAKI)
+2	X-Mailer: The Bat! (v3.0.1 RC6) Professional
+2	X-Mailer: CommuniGate Pro WebUser Interface v.4.2.5
+2	X-Mailer: PMMail 2000 Professional (2.20.2717) For Windows 2000 (5.1.2600;2)
+2	X-Mailer: EarthLink MailBox 5.0.7.9 (Windows)
+2	User-Agent: Wanderlust/2.11.30 (Wonderwall) SEMI/1.14.6 (Maruoka) FLIM/1.14.6 (Marutamachi) APEL/10.6 MULE XEmacs/21.4 (patch 15) (Security Through Obscurity) (i386-debian-linux)
+2	X-Mailer: across elude
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a5) Gecko/20041012
+2	X-Mailer: Internet Mail Service (5.5.2657.9)
+2	X-Mailer: Seulerian 8.33
+2	X-Mailer: goldberg 
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8a1) Gecko/20040520
+2	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040829)
+2	User-Agent: Mozilla Thunderbird 0.8 (X11/20040925)
+2	X-Mailer: exmh version 2.4 05/15/2001 with nmh-1.0.4
+2	X-Mailer: Novell GroupWise Internet Agent 6.0.2
+2	X-Mailer: InterChange (Hydra) SMTP v3.61.08
+2	X-Mailer: bridgetown parachute aides 
+2	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.16 (built May 14 2003)
+2	X-Mailer: Microsoft Outlook Express 6.00.2900.2082
+2	X-Mailer: Ximian Evolution 1.4.5Teaser-1.4.5-bld01
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.1) Gecko/20020823 Netscape/7.0
+2	X-Mailer: Mew version 4.0.62 on Emacs 21.3.50 / Mule 5.0 (SAKAKI)
+2	X-Mailer: RMM
+2	X-Mailer: The Bat! (v3.0.1 RC6) Home
+2	X-Mailer: Mozilla 4.75 [de]C-CCK-MCD   (WinNT; U)
+2	X-Mailer: 8.0 for Windows sub 6811
+2	X-Mailer: Oozlauyv 1.1
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.7.2) Gecko/20040803
+2	X-Mailer: Usermin 1.091
+2	X-Mailer: Version 5.0 Build 132
+2	X-Mailer: Mulberry/2.2.1 (Linux/x86)
+2	X-Mailer: Microsoft Outlook, Build 10.0.2627 regular marquee
+2	User-Agent: Mozilla Thunderbird 0.8 (X11/20040921)
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP;
+2	User-Agent: The Bat! (v2.00.4) Personal
+2	X-Mailer: Microsoft Outlook Express 6.00.3790.0
+2	x-mailer: Claris Emailer 2.0v3, January 22, 1998
+2	X-Mailer: PHP/4.3.6
+2	User-Agent: ASP SMTPsvg Component 1.52
+2	X-Mailer: QUALCOMM Windows Eudora Version 5.1 emboss venereal
+2	X-Mailer: PocoMail 3.03 (1740) - Licensed Version
+2	X-Mailer: iPlanet Messenger Express 5.2 Patch 2 (built Jul 14 2004)
+2	X-Mailer: The Bat! (v2.04.7)
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6b) Gecko/20031205 Thunderbird/0.4
+2	X-Mailer: The Bat! (v2.04.7)         CD5BF9353B3B7091
+2	X-Mailer: Mozilla 4.79C-SGI [en] (X11; U; IRIX 6.5 IP32)
+2	X-Mailer: z2QIe5bU0rGvan2oXT6Jd0pl2
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.5) Gecko/20031013 Thunderbird/0.3
+2	X-Mailer: Microsoft Outlook Express 5.50.4920.2300
+2	X-Mailer: PocoMail 3.2 (2000) - EVALUATION VERSION
+2	X-Mailer: Evolution 1.5.9.1 
+2	User-Agent: Opera M2/7.51 (Win32, build 3798)
+2	User-Agent: Mozilla Thunderbird 0.6 (X11/20040530)
+2	X-Mailer: Microsoft Outlook Express 6.00.2800.1123
+2	User-Agent: Mozilla Thunderbird 0.6 (X11/20040504)
+2	X-Mailer: an birch vectorial
+2	X-Mailer: Microsoft Outlook, Build 10.0.2627 approach pun
+2	User-Agent: Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0)
+2	X-Mailer: SquirrelMail (version 1.2.11)
+2	X-Mailer: exclamation 
+2	X-Mailer: Dpejge 9.6
+2	X-Mailer: ELM [version 2.4ME+ PL94 (25)]
+2	X-Mailer: EarthLink MailBox 2005.1.47.0 (Windows)
+2	User-Agent: echo $message | gpg -e $sender  -s | netcat mailhost 25
+2	X-Mailer: alexei vanguard 
+2	X-Mailer: Turnpike Integrated Version 5.00 U <pSVODkNAbEyQlpK0qoVRLheKCK>
+2	User-Agent: Mozilla Thunderbird 0.8 (X11/20040915)
+2	X-Mailer: Openwave WebEngine, version 2.8.15 (webedge20-101-1103-20040528)
+2	User-Agent: XanaNews/1.16.4.4
+2	X-Mailer: Virtual Access by Atlantic Coast PLC,
+2	X-Mailer: Open WebMail 1.71 20021028
+2	X-Mailer: Mozilla 4.78 [es] (Windows NT 5.0; U)
+2	X-Mailer: far ncar
+2	X-Mailer: Juno 5.0.33
+2	X-Mailer: 8.0 for Windows sub 6803
+2	User-Agent: Mozilla Thunderbird 0.5 (Windows/20040502)
+2	X-Mailer: CSM2.8
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4.1) Gecko/20031114
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040826
+2	X-Mailer: The Bat! (v2.11)
+2	X-Mailer: The Bat! (v3.0.2.1) Home
+2	X-Mailer: TFS Secure Messaging Server /222130864/222041241/222002211/222081817/
+2	X-mailer: Foxmail 4.2 [eg]
+2	X-Mailer: aKzbn9uua89uKNu
+2	User-Agent: Mozilla Thunderbird 0.8 (Macintosh/20041018)
+2	X-Mailer: eIns Mail Version 1.1
+2	X-Mailer: due baseplate ammeter
+2	User-Agent: Mozilla Thunderbird 0.8 (Windows/20041012)
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041008
+2	X-Mailer: fastmail [version 2.5 PL6]
+2	X-Mailer: The Bat! (v2.12.00) Business 
+2	X-Mailer: ELM [version 2.5 PL7]
+2	X-Mailer: Mozilla 4.78 [en] (Win98; U)
+2	X-Mailer: Microsoft Outlook Express 6.00.2800.1209
+2	User-Agent: aol 3.0.1 for mac sub 79
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.1) Gecko/20021003
+2	X-Mailer: Sylpheed-Claws 0.9.12a (GTK+ 1.2.10; i686-pc-linux-gnu)
+2	X-Mailer: iPlanet Messenger Express 5.2 (built Feb 21 2002)
+2	X-Mailer: wishful bogy hopkins 
+2	X-Mailer: exmh version 2.6.3 04/04/2003 with nmh-1.0.4
+2	X-Mailer: MerakMailServer.com Web Mail 4.2.1
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20041004
+2	X-Mailer: eggplant ballerinas over 5996
+2	X-Mailer: QUALCOMM Windows Eudora Version 5.2.0.9
+2	X-Mailer: 8.0 for Windows sub 6033
+2	User-Agent: fostering Program V Mail Client 5.0
+2	X-Mailer: Bloomba 1.0.4
+2	X-Mailer: Open WebMail 2.30 20040103
+2	User-Agent: Microsoft CDO for Windows 2000
+2	X-Mailer: Sylpheed version 0.9.12cvs17 (GTK+ 1.2.10; i686-pc-linux-gnu)
+2	X-Mailer: Evolution 1.5.9.2 
+2	X-Mailer: The Bat! (v1.53d) Personal
+2	User-Agent: Mailshell.com
+2	User-Agent: Gnus/5.110002 (No Gnus v0.2) Emacs/21.3.50 (berkeley-unix)
+2	X-Mailer: Fnzawken 2.4
+2	X-Mailer: omphalos 44 clodhoppers
+2	X-Mailer: Sylpheed version 0.9.10claws (GTK+ 1.2.10; i686-pc-linux-gnu)
+2	User-Agent: 40tude_Dialog/2.0.10.1
+2	User-Agent: Mozilla Thunderbird 0.8 (X11/20041007)
+2	User-Agent: astro mail by fetch
+2	X-Mailer: Mutt.The mail client what sucks less.
+2	X-Mailer: 9.0 for Windows sub 5006
+2	User-Agent: XanaNews/1.15.7.4
+2	X-Mailer: Sylpheed version 0.7.4claws (GTK+ 1.2.10; powerpc-debian-linux-gnu)
+2	X-Mailer: Wish-You-Knew-Huh
+2	X-Mailer: Mozilla 4.76 [en] (Windows NT 5.0; U)
+2	X-Mailer: 7.0 for Windows sub 8001
+2	X-Mailer:  1.71 20020827
+2	X-Mailer: hsfjhjhsjjhsdjhsfdjhfsdjhsdf
+2	X-Mailer: Danger Service
+2	X-Mailer: Sylpheed version 0.9.12-gtk2-20040622 (GTK+ 2.4.10; sparc-sun-solaris2.8)
+2	X-Mailer: The Bat! (v1.53d)
+2	X-Mailer: conference temerity
+2	X-Mailer: Openwave WebEngine, version 2.8.16.1 (webedge20-101-1106-101-20040924)
+2	X-Mailer: Mew version 2.2 on Emacs 21.2 / Mule 5.0 (SAKAKI)
+2	X-Mailer: IncrediMail (3001487)
+2	X-Mailer: The Bat! (v3.0.1 RC5) UNREG / CD5BF9353B3B7091
+2	X-mailer: Foxmail 5.0 beta1 [cn]
+2	User-Agent: SquirrelMail/1.4.2-0.1.7.x
+2	X-Mailer: QUALCOMM Windows Eudora Version 6.0.2.0
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20041012
+2	X-Mailer: berman testify chairperson
+2	X-Mailer: <IMail v8.05>
+2	X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0.2 
+2	X-Mailer: Sylpheed version 0.9.6claws (GTK+ 1.2.10; i386-pc-linux-gnu)
+2	X-Mailer: Sylpheed-Claws 0.9.12cvs118.1 (GTK+ 2.4.9; i686-pc-linux-gnu)
+2	X-Mailer: NeoMail 1.26
+2	X-Mailer: Ximian Evolution 1.2.4 1
+2	X-Mailer: CTM PowerMail version 5.1b3 build 4328 English
+2	User-Agent: Allaire Cold Fusion 2.0
+2	User-Agent: Opera M2/7.54 (Win32, build 3870)
+2	User-Agent: Gnus/5.0802 (Gnus v5.8.2) Emacs/20.4
+2	X-Mailer: woodard bryophyte
+2	X-Mailer: c88qb5rJP5jyMoZZXomHf3
+2	X-Mailer: about 6 but
+2	X-Mailer: QuickMail Pro 3.0 (Windows32)
+2	X-Mailer: MSN 9
+2	X-Mailer: Mozilla 4.04 [en] (Win95; I)
+2	X-Mailer: ELM [version 2.5 PL3]
+2	X-Mailer: Sylpheed version 0.9.11claws (GTK+ 1.2.10; i686-pc-linux-gnu)
+2	User-Agent: aol 6.0 for windows us sub 10523
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; pt-BR;
+2	X-Mailer: WorldClient Standard 3.1.2
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a4) Gecko/20040917
+2	X-Mailer: bodyguard hayes 
+2	X-Mailer: Openwave WebEngine,
+2	X-Mailer: Balsa 2.2.4
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.1) Gecko/20040812
+2	X-Mailer: Intermail 2.0A9Pegasus Mail for Windows v2.01
+2	X-Mailer: Mozilla 4.77 [en](X11; Linux 2.4.3-20mdk i586)
+2	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE;
+2	User-Agent: NewsPortal/0.35pl1 (http://florian-amrhein.de/newsportal)
+2	X-Mailer: IncrediMail (2001184)
+2	X-Mailer: The Bat! (v3.0.1 RC7) Home
+2	X-Mailer: freemail 0.9.8
+2	X-Mailer: WebMailv2 Tice-Universite de Savoie
+2	X-Mailer: The Bat! (v1.61)
+2	X-Mailer: 8.0 for Windows sub 670
+2	X-Mailer: ojnjj aokofctsu okpwn
+2	X-Mailer: SMTP
+2	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.2) Gecko/20040301
+2	User-Agent: Mozilla Thunderbird 0.4 (X11/20040306)
+2	X-Mailer: 1JqeqqQvWoSa7Sxgp7t
+2	X-Mailer: The Bat! (v1.61) Personal
+2	User-Agent: XanaNews/1.16.4.3
+2	X-Mailer: espadrille dahlias toward 24
+2	X-Mailer: PHP/4.1.2
+2	User-Agent: Mozilla Thunderbird 0.8 (X11/20041010)
+2	X-Mailer: The Bat! (v1.41) Business
+1	X-Mailer: fetishist 3039 impresarios
+1	X-Mailer: Produced by Microsoft Outlook, Build 10.0.2627
+1	X-Mailer: Laftermath Version 0.4
+1	User-Agent: slrn/0.9.8.1 (Linux)
+1	X-Mailer: sdgfsdfggfs
+1	X-Mailer: acquit theta amman 
+1	X-Mailer: Mozilla 4.75 [en] (Win95;U)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040923
+1	X-Mailer: DWmail 3.6.1
+1	X-Mailer: MIME-tools 5.503 (Entity 5.501) physic ape
+1	User-Agent: Mutt/1.2.4i
+1	X-Mailer: domesticate blowup
+1	X-Mailer: Pine.LNX.4.30
+1	X-Mailer: calculate coquina coffer
+1	X-Mailer: chemist icosahedron cocaine
+1	X-Mailer: IceWarp Web Mail 5.2.7
+1	X-Mailer: Acc Subscribe (id=44 email=steven@mwn.co.id)
+1	User-Agent: aol 6.0 for windows us sub 10506
+1	User-Agent: Opera/7.02 (Windows NT 5.1; U)
+1	X-Mailer: KMail [version 1.2]
+1	X-Mailer: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+1	User-Agent: Mozilla Thunderbird 0.8 (X11/20040930)
+1	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.3.50 (windows-nt)
+1	X-Mailer: Open WebMail 2.40 20040818
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.3) Gecko/20041010
+1	User-Agent: AspMail 4.0 4.03 (SMT470603F)
+1	X-Mailer: <IMail v8.10>
+1	X-Mailer: ernestine modulus herewith atkinson 
+1	User-Agent: tin/1.7.6-20040906 ("Baleshare") (UNIX) (Linux/2.6.6-b50 (ppc))
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a5) Gecko/20041004
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; sv-SE; rv:1.7.3) Gecko/20040922
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20031111
+1	X-Mailer: board moral documentary
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i586; fr-FR; rv:1.7.2) Gecko/20040803
+1	User-Agent: Applixware 3.1
+1	User-Agent: SUNUMAIL/1.4.2
+1	X-Mailer: aberrate 
+1	X-Mailer: IncrediMail (2001184)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040924 Debian/1.7.3-2
+1	X-Mailer: Aapaxjawlh 5.3
+1	X-Mailer: Mulberry/3.1.0 (Mac OS X)
+1	User-Agent: MacSOUP/2.6 (Mac OS X version 10.3.5)
+1	User-Agent: Mozilla Thunderbird 0.6+ (Windows/20041010)
+1	X-Mailer: PMMail 2000 Standard (2.20.2717) For Windows 2000 (5.0.2195;4)
+1	X-Mailer: Sylpheed-Claws 0.9.12b (GTK+ 1.2.10; i386-portbld-freebsd5.2.1)
+1	X-Mailer: marvel asia 
+1	X-Mailer: PHP/4.3.8
+1	X-Mailer: Mahogany 0.66.0 'Clio', compiled for Linux 2.4.22-1.2194.nptl i686
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.6) Gecko/20040413 Debian/1.6-5
+1	User-Agent: SquirrelMail/1.4.1-2
+1	X-Mailer: PSS Mailer V3.0
+1	X-Mailer: Windows Eudora Pro Version 3.0.1 (16) [F]
+1	X-Mailer: coagulate asuncion
+1	X-Mailer: circuitous wage bar
+1	X-Mailer: Pmarginalia 2.82
+1	X-Mailer: toddle hoboken
+1	X-Mailer: marshal homophobia
+1	X-Mailer: leaflet@version 1.2493
+1	X-Mailer: Eajar 5.39
+1	X-Mailer: Sylpheed-Claws 0.9.12b (GTK+ 1.2.10; i686-pc-linux-gnu)
+1	X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+1	X-Mailer: AOL 8.0 for Windows US sub 931
+1	X-Mailer: pagan oldster brochure cistern 
+1	X-Mailer: EM: 4.40.0.600
+1	X-Mailer: canst singe 
+1	X-Mailer: platte declination
+1	X-Mailer: Ffedora Version 7.2
+1	X-Mailer: convolution cohesive
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01
+1	X-Mailer: Novell GroupWise 5.5.5
+1	X-Mailer: clog guardhouse coo 
+1	User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7) Gecko/20040616
+1	X-Mailer: Eholdout 1.56
+1	X-Mailer: kabul davidson crystal 
+1	X-Mailer: Qdeclamatory 1.21
+1	User-Agent: Internet Messaging Program (IMP) 4.0-cvs
+1	X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2911.0)
+1	X-Mailer: IdOLA Webmail 1.0.a (http://webmail.idola.net.id)
+1	X-Mailer: Ultrafunk Popcorn 1.70 (21-June-2004)
+1	X-Mailer: exmh version 2.4 06/23/2000 with nmh-1.0.4
+1	X-Mailer: Lotus Notes Build V70_M1_04062004 Beta 1NP April 06, 2004
+1	User-Agent: Apple Mail 2.317
+1	X-Mailer: TWIG 2.7.4
+1	X-Mailer: sorrow amanita sowbelly 
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20040913 Thunderbird/0.8 Mnenhy/0.6.0.101
+1	X-Mailer: curse 8549 taxidermists
+1	User-Agent: Turnpike/6.02-U (<$eA9m4vpfXd27fzjrbfX+v8v3u>)
+1	X-Mailer: Acc Subscribe (id=20 email=steven@mwn.co.id)
+1	X-Mailer: submarine 401 clocks
+1	X-Mailer: substitute some hologram 
+1	x-mailer1: esmtp
+1	X-Mailer: Kaspersky SMTPSCAN 5.0.2.1/RELEASE
+1	X-Mailer: Microsoft Outlook, Build 10.0.2627_2
+1	X-Mailer: CommuniGate Pro WebUser Interface v.4.1.5
+1	X-Mailer: tacky expert
+1	User-Agent: Wanderlust/2.10.1 (Watching The Wheels) SEMI/1.14.6 (Maruoka)
+1	User-Agent: Hogwasher 2.0b4 (Macintosh)
+1	X-Mailer: assiduous filmmake dadaism (A51.063.5)
+1	X-Mailer: sudanese timon 
+1	X-mailer: Pegasus Mail for Win32 (v3.01d)
+1	X-Mailer: grrsh jcecchm wtgjjnkua xdcmhn
+1	X-Mailer: The Bat! (v2.00.8) Personal
+1	X-Mailer: Ybhlechhdyi 5.3
+1	X-Mailer: Sun Java(tm) System Messenger Express 6.1 HotFix 0.02 (built Aug 25
+1	X-Mailer: IncrediMail (2501338)
+1	X-Mailer: Vtorah 7.26
+1	X-Mailer: Opera 6.06 build 1144
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6b) Gecko/20031210 MultiZilla/1.6.0.0d
+1	X-Mailer: <SMTP32 v20020515>
+1	X-Mailer: Mail/@ [v2.43 MSDOS]
+1	User-Agent: VXmailer 1.1
+1	X-Mailer: pegasus buckeye
+1	X-Mailer: exoskeleton macaque 
+1	User-Agent: Mozilla Thunderbird 0.8 (Linux)
+1	X-Mailer: yeats quartzite covenant
+1	X-Mailer: AOL 6.0 for Windows US sub 268
+1	X-Mailer: idfjydzwm rremhg caaulxjlz kqtqkpn fcosmsvi yvdvtpxy plfgkjv Tgdikb xebqyg
+1	X-Mailer: ELM [version 2.4ME+ PL54 (25)]
+1	X-Mailer: Qdisneyland 0.90
+1	X-Mailer: book
+1	X-Mailer: Mutt/1.3.14i
+1	X-Mailer: Qnarragansett Version 8.0
+1	X-Mailer: alluvialPgzblndz 4.4
+1	X-Mailer: PopOver 2.0.150 (Windows NT; YB; i386)
+1	X-Mailer: AOL 9.0 for Windows US sub 938
+1	User-Agent: Mozilla Thunderbird 0.8 (X11/20040914)
+1	X-Mailer: Sylpheed-Claws 0.9.12cvs122.1 (GTK+ 2.4.10; i686-suse-linux)
+1	X-Mailer: TFS Secure Messaging Server /310000000/300900908/450900019/300570908/
+1	X-Mailer: CommuniGate Pro WebUser Interface v.4.2b8
+1	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7.2) Gecko/20040803
+1	X-Mailer: Sylpheed version 0.9.12-gtk2-20040617 (GTK+ 2.4.4; i386--netbsdelf)
+1	X-Mailer: Frubble.com Mailer Agent
+1	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.6) Gecko/20040122
+1	X-mailer: FoxMail 4.0 beta 2 [cn]
+1	X-Mailer: argue garner bloodline 
+1	X-Mailer: crash cruise V6.27
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030703
+1	X-Mailer: Njzkbqm 1.0
+1	X-Mailer: cmail 2.61 on GNU Emacs 21.3.1 / Mule 5.0 (SAKAKI)
+1	X-Mailer: xgipu befogging 
+1	X-Mailer: RA1980 XMailer
+1	X-Mailer: mackerel romulus restraint
+1	X-Mailer: Cerberus Helpdesk v. 2.4.0 Release (http://www.cerberusweb.com)
+1	User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.3.1) Gecko/20030813
+1	X-Mailer: Microsoft Outlook Build 10.0.2627
+1	X-Mailer: Microsoft Outlook Express 5.00.2919.6700 lindholm yolk
+1	X-Mailer: over 0644 and
+1	X-Mailer: testmailer
+1	X-Mailer: Mozilla 4.77 [en] (X11; U; HP-UX B.10.20 9000/780)
+1	X-Mailer: Microsoft Outlook Express 6.00.45315.1508
+1	X-Mailer: infancy varistor slur
+1	X-Mailer: Mulberry/3.1.5 (Linux/x86)
+1	User-Agent: Mozilla Thunderbird 0.5 (Windows/20040212)
+1	X-Mailer: rattlesnake 765 gypsies
+1	X-Mailer: xgkpczcz sxmkkstvx Kwqjwxd aocjtgb jswnfacj? sjdtwhuub - xfsbm
+1	X-Mailer: Eudora 6.0.3
+1	X-Mailer: WebMail
+1	X-Mailer: %X-MAILER
+1	X-Mailer: Ufreedom 1.18
+1	X-Mailer: bijective girlie chandler
+1	X-Mailer: o2.pl WebMail v5.14
+1	User-Agent: allaire coldfusion application server
+1	X-Mailer: SuSE Linux Openexchange Server 4 - WebMail (Build 2.3788)
+1	User-Agent: Gnus/5.1006 (Gnus v5.10.6) XEmacs/21.4 (Security Through Obscurity, cygwin32)
+1	User-Agent: sillypheed-claws (anti-aliased)
+1	X-Mailer: Version 5.0 Build 128
+1	X-Mailer: Network Associates, Inc. Webshield SMTP, Version 4.5 MR1a P0803.345 
+1	X-Mailer: bolshoi nv 
+1	User-Agent: AOL 7.0 for Windows US sub 118
+1	X-Mailer: Q Version 2.6
+1	X-Mailer: Openwave WebEngine, version 2.8.13.1 (webedge20-101-1100-20040114)
+1	X-Mailer: derriere nosebleed 
+1	User-Agent: Astro Mail by Fetch
+1	X-Mailer: Wformate 2.95
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.0) Gecko/20020623
+1	User-Agent: pegasus mail for win32 (v3.12a)
+1	X-Mailer: m's electro clonic protagonist 
+1	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US;
+1	X-Mailer: caw buff daytona
+1	User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2106
+1	X-Mailer: AOL 9.0 for Windows US sub 390
+1	X-Mailer: FreeMail.gr 1.08 (http://www.freemail.gr/)
+1	X-Mailer: WorldClient Standard 4.0.2
+1	User-agent: litchfieldsucks
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040928
+1	X-Mailer: SnapperMail 2.0.6.01  by Snapperfish, www.snappermail.com
+1	X-Mailer: eggplant 083 toothpicks
+1	User-Agent: Mozilla/5.0 (Macintosh; U; PPC; en-US; rv:1.3.1) Gecko/20030701
+1	X-Mailer: PHPMailer [version 1.72]
+1	X-Mailer: webmail.delfi.lv
+1	X-Mailer: FletMail 1.103
+1	User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.5) Gecko/20031111
+1	X-Mailer: Trukof 6.1
+1	X-Mailer: pVy1N2TxfWe9wrF4rybewSYb
+1	X-Mailer: osborne sketchbook
+1	X-Mailer: Mailer Software (rev. 01/15/2004)
+1	X-Mailer: chiang nu
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030915
+1	X-Mailer: stationary vellum banshee
+1	X-Mailer: www.MyOwnEmail.com v5.00
+1	X-Mailer: AOL 7.0 for Windows US sub 118_2
+1	X-Mailer: Mozilla 4.79 [en] (X11; U; SunOS 5.8 sun4u)
+1	X-Mailer: MIME::Lite 1.2  (F2.71; T1.001; A1.51; B2.12; Q2.03)
+1	X-Mailer: ravmd/8.4.0
+1	X-Mailer: Mozilla 4.77 [en] (X11; U; SunOS 5.6 sun4u)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20040915
+1	X-Mailer: The Bat! (v2.00.7) Personal
+1	X-Mailer: TeamWARE Connector for MIME
+1	User-Agent: AOL 6.0 for Windows US sub 10552
+1	X-Mailer: duxeewbf uebmpfl
+1	X-Mailer: Fdionysus Version 8.0
+1	X-Mailer: Vveto 5.5
+1	X-Mailer: dido khartoum V5.78
+1	X-Mailer: Lonely Cat Games ProfiMail
+1	User-agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6) 
+1	X-Mailer: JAW::Mail 1.0-email.si
+1	X-Mailer: AOL 8.0 for Windows US sub 901
+1	X-Mailer: Microsoft Outlook Express 6.00.2462.0000 melanin parcel
+1	X-Mailer: <SMTP32 v8.04>
+1	X-Mailer: detestation foregoing
+1	X-Mailer: satyr 
+1	X-Mailer: grand piano maestros defined by 7
+1	X-Mailer: Wwoodyard 1.9
+1	X-Mailer: Sylpheed version 0.9.3 (GTK+ 1.2.10; i686-pc-linux-gnu)
+1	User-Agent: Microsoft-Entourage/9.0.2509
+1	User-Agent: 40tude_Dialog/2.0.14.1de (3c29a93f.130.359)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES;
+1	X-Mailer: tqplv 3.1
+1	User-Agent: SquirrelMail/1.4.3a-0.1.7.x
+1	X-mailer: Pegasus Mail for Windows (v4.01)
+1	X-Mailer: PHP Auto-Mailer
+1	X-Mailer: cargill rangy 
+1	X-Mailer: XMail-1.0
+1	X-Mailer: Becky! ver. 2.11.02 [ja]
+1	X-mailer: Supmailer 9 [cn][maro]
+1	X-Mailer: Mozilla 4.51 [en] (Win2000; 1094188523)
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8a5) Gecko/20041013
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a2) Gecko/20040714
+1	X-Mailer: Sylpheed version 0.9.7 (GTK+ 1.2.10; i586-pc-linux-gnu)
+1	X-Mailer: dropout asexual monastery 
+1	X-Mailer: bushel vermouth
+1	X-Mailer: The Bat! (v1.62 Christmas Edition)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT;
+1	X-Mailer: Microsoft Outlook 2002 Email Client 54185 640 0000025 17104
+1	User-Agent: mPOP Web-Mail 2.19
+1	User-Agent: XanaNews/1.16.1.13
+1	X-Mailer: Host-it CMail Server 2.4.16
+1	X-Mailer: zHqI8Pt6bLeD995MI
+1	X-Mailer: transmitting 
+1	X-Mailer: steven agriculture V5.58
+1	X-Mailer: plaintiff 4 haunches
+1	X-Mailer: bromide exceed 
+1	X-Mailer: Cerberus Helpdesk v. 2.5.0 Release (http://www.cerberusweb.com)
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040514
+1	X-Mailer: Simeon for Win32 Version 4.1.5 Build (43)
+1	X-Mailer: zvcghvrqk wdsclyo qquhavjwa uzpwamqj. 
+1	X-Mailer: shirk defunct vacuo
+1	X-Mailer: Medianet/v2.0
+1	User-Agent: Gnus/5.1002 (Gnus v5.10.2) XEmacs/21.4 (Security Through
+1	User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7b) Gecko/20040316
+1	X-Mailer: Microsoft Outlook, Build 10.0.859 bawd jennings
+1	X-Mailer: AOL 9.0 for Windows US sub 956
+1	X-Mailer: <IMail v7.06>
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.7.3)
+1	X-Mailer: G Version 6.0
+1	User-Agent: Opera M2/7.60 (Win32, build 7236)
+1	X-Mailer: jqfxgxwg cssmiwnr ndwhpfwf 
+1	X-Mailer: AOL 8.0 for Windows US sub 277
+1	X-Mailer: AOL 2.5 for Windows US sub 916
+1	X-Mailer: AOL 9.0 for Windows US sub 484
+1	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.17 (built Jun 23 2003)
+1	X-Mailer: Sylpheed version 0.9.7 (GTK+ 1.2.10; i386-redhat-linux-gnu)
+1	X-Mailer: Gfhqye Mhyzbdfzjy
+1	User-Agent: tin/1.7.6-20040906 ("Baleshare") (UNIX) (Linux/2.4.26 (i586))
+1	X-Mailer: The Bat! (v2.01)         CD5BF9353B3B7091
+1	X-Mailer: fighter pilot 08 guardian angels
+1	X-Mailer: CommuniGate Pro MAPI Connector 1.1.7
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-DE; rv:1.4) Gecko/20030619 Netscape/7.1 (ax)
+1	X-Mailer: Mozilla 3.0b6
+1	X-Mailer: weDBmail (Development Code)
+1	X-Mailer: KANA Response 7.0.1.116.3.6
+1	X-Mailer: umbrella biceps toward 1589
+1	X-Mailer: ELM [version 2.4ME+ PL93 (25)]
+1	X-Mailer: Pagway Version 1.8
+1	X-Mailer: Z-Mail Pro 6.2, NetManage Inc. [ZM62_16H]
+1	X-Mailer: Mailsmith 2.1.1 (Blindsider)
+1	X-Mailer: Mar.yahoo.com Webmail 1.0
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.5b) Gecko/20030812
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.7.2) Gecko/20040819 Debian/1.7.2-3
+1	X-Mailer: blip 
+1	X-Mailer: SquirrelMail (version 1.2.6)
+1	User-Agent: SquirrelMail/1.4.2-1.qvcs.1
+1	User-Agent: Mozilla/5.0 (X11; U; Linux ppc; de-AT;
+1	X-Mailer: GNUMail.app (Version 1.2.0)
+1	X-Mailer: Mew version 3.3 on XEmacs 21.4.15 (Security Through Obscurity)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i386; en-US; rv:1.1) Gecko/20020826
+1	X-Mailer: The Bat! (v2.04.7) UNREG / CD5BF9353B3B7091
+1	X-Mailer: Evolution 2.0.0-3mdk 
+1	User-Agent: Mozilla Thunderbird  StumbleUpon/1.994 (X11/20040921)
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US;
+1	X-Mailer: xdsxatdit vqtflnlxv
+1	X-Mailer: Internet Mail Service (5.5.2657.46)
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7b) Gecko/20040316
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4.3) Gecko/20040817
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.5) Gecko/20031007
+1	X-Mailer: Microsoft Outlook, Build 10.0.2627 infer heroes
+1	X-Mailer: Ufluorine 2.07
+1	X-Mailer: The Bat! (v1.62i)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5) Gecko/20031016
+1	User-Agent: Internet Messaging Program (IMP) 3.2.2 / FreeBSD-5.2
+1	X-Mailer: Yes!
+1	User-Agent: Gnus/5.090008 (Oort Gnus v0.08) XEmacs/21.4 (Rational FORTRAN,
+1	X-Mailer: concertina glorify 
+1	User-Agent: Opera7.23/Linux M2 build 518
+1	User-Agent: Mozilla Thunderbird 0.6+ (Windows/20040821)
+1	X-Mailer: Ncareer 2.85
+1	X-Mailer: Mozilla 4.8 [en] (X11; U; Linux 2.4.22-1.2199.nptl_52.rhfc1.at i686)
+1	X-Mailer: Kforbidding 5.86
+1	X-Mailer: certificate effort V2.63
+1	X-Mailer: VM 7.14 under 21.4 (patch 13) "Rational FORTRAN" XEmacs Lucid
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a5) Gecko/20041001
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040726
+1	User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.2) Gecko/20040901
+1	User-Agent: 40tude_Dialog/2.0.14.1de (0167ba7c.50.471)
+1	X-Mailer: SquirrelMail/1.4.3a-0.1.7.x
+1	X-Mailer: Evolution 2.0.2
+1	User-Agent: aol 6.0 for windows us sub 10536
+1	X-Mailer: Webmail.Soedjati.Cx
+1	User-Agent: Opera7.11/Win32 M2 build 2880
+1	X-Mailer: eSupport v2
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20040914
+1	X-Mailer: grocery 
+1	X-Mailer: Mozilla 3.01Gold [pt] (WinNT; I)
+1	X-Mailer: Mozilla 4.8 [en] (X11; U; SunOS 5.8 sun4u)
+1	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.5) Gecko/20031007
+1	X-Mailer: gilt gelable contour 
+1	X-Mailer: xyduz dmotfrgj jjtsmjll
+1	X-Mailer: QUALCOMM Windows Eudora Pro Version 3.0.5 (32)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.8a4) Gecko/20040927
+1	User-Agent: PerfectMail/1.4.4
+1	X-Mailer: 7.0 for Windows sub 8000
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a3) Gecko/20040817
+1	X-Mailer: Novell GroupWise Internet Agent 6.0.3
+1	X-Mailer: The Bat! (v2.04.7) Business
+1	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.4.2) Gecko/20040812
+1	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040828)
+1	User-Agent: Mutt/1.5.6+lxtec-20040907i
+1	X-Mailer: d2NxpDS2K5rTbCII2
+1	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; i386--netbsdelf)
+1	X-Mailer: Iclever 9.89
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.7.1) Gecko/20040707
+1	X-Mailer: snow mirrors for 5762
+1	X-Mailer: davit montreal paraxial
+1	User-Agent: Opera M2/7.54 (MacPPC, build 1840)
+1	X-Mailer: borg tape V7.67
+1	X-Mailer: Microsoft Outlook Express 5.00.2919.6700 germicide doghouse
+1	X-Mailer: Mew version 3.3 on Emacs 21.1 / Mule 5.0 (SAKAKI)
+1	X-Mailer: Mozilla 4.77 [pl] (X11; U; Linux 2.2.18 i586)
+1	X-Mailer: Group Mail Free 3.4.195 _2
+1	User-Agent: SquirrelMail/1.4.2-1.7.ct
+1	X-Mailer: AOL 8.0 for Windows US sub 311
+1	X-Mailer: conservative playa loren
+1	X-Mailer: Acc Subscribe (id=37 email=steven@mwn.co.id)
+1	X-Mailer: VM 6.92 under 21.4 (patch 3) "Academic Rigor" XEmacs Lucid
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040122 Debian/1.6-1
+1	User-Agent: Mozilla Thunderbird 0.8 (X11/20040924)
+1	X-Mailer: Lotus Notes Release 5.0.5  September 22, 2000
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4.2) Gecko/20040426
+1	X-Mailer: lauquc 
+1	X-Mailer: SquirrelMail (version 1.2.9)
+1	X-Mailer: around 23 or
+1	X-Mailer: Mailsmith 2.1.3 (Blindsider)
+1	X-Mailer: hgogtlwkd (1.59)
+1	User-Agent: Mozilla/5.012 (X11; U; FreeBSD i386; U; NT4.0; en-us) Gecko/25250101
+1	X-Mailer: cannibal chromatograph
+1	X-Mailer: dtmail 1.3.0 @(#)CDE Version 1.4.8 SunOS 5.8 sun4u sparc 
+1	User-Agent: foxmail 4.2 [cn]
+1	X-Mailer: Dqgdpn 1.7
+1	X-Mailer: Wmidas 7.77
+1	User-Agent: Mozilla Thunderbird 0.5 (X11/20040803)
+1	X-Mailer: yafgp hotel 
+1	X-Mailer: curate gnome classificatory (329.496.220)
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.3) Gecko/20040913
+1	X-Mailer: khartoum 
+1	X-Mailer: applicable loft
+1	X-Mailer: lavatory doug 
+1	X-Mailer:    (97.D.E)
+1	X-Mailer: cheater 
+1	X-Mailer: Mozilla/4.0 (Windows 95;US) Opera 3.60  [en]
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.8) Gecko/20020204
+1	X-Mailer: Manitou v0.9.4
+1	X-Mailer: dnreoey 9 sbfcqph
+1	User-Agent: AOL 3.0 16-bit for Windows sub
+1	X-Mailer: Evolution 2.0.1 (2.0.1-3) 
+1	X-Mailer: Foxmail 5.0 beta2 [cn]
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040623
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7) Gecko/20040616
+1	X-Mailer: Open WebMail 2.10 20030617
+1	X-Mailer: CommuniGate Pro WebUser Interface v.4.2.1
+1	X-Mailer: indomail 2.1
+1	X-Mailer: bmggqnyf ghirqihhq
+1	X-Mailer: GNUMail.app (Version 1.1.2)
+1	X-Mailer: adorn econometrica coefficient 
+1	X-Mailer: Webtop Web-based E-mail 2.0
+1	User-Agent: Application 0.6+ (X11/20041001)
+1	X-Mailer: PSS Mailer V3.0
+1	X-Mailer: cinnabar carpet bedevil
+1	X-Mailer: XFMail 1.5.5-RC1 on Linux
+1	X-Mailer: saviour ferocity
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6b)
+1	X-Mailer: minsk manipulate
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8a4) Gecko/20040928
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2)
+1	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040818)
+1	X-Mailer: WebMail4India version v2.1
+1	X-Mailer: pickup truck 227 haunches
+1	X-Mailer: h4yMzOaa5hf3pH9ec1YpWosP
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041015
+1	User-Agent: Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.05  [de]
+1	X-Mailer: PEBKAC id:10T
+1	X-Mailer: affiance nibs laudatory 
+1	User-Agent: Opera M2/7.60 (Linux, build 793)
+1	X-Mailer: Usermin 1.160
+1	X-Mailer: AOL 9.0 for Windows US sub 214
+1	X-Mailer: floor catbird every
+1	X-Mailer: AOL Fanfare (20040820Branch.4205.148 Win)
+1	X-Mailer: nightdress 
+1	X-Mailer: anthem drawl
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.7.3) Gecko/20040910 MultiZilla/1.6.2.0c
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.3) Gecko/20040913
+1	X-Mailer: Pine.LNX.4.10
+1	X-Mailer: insomnia teet affluence
+1	X-Mailer: Mintersoft VisualOffice, Build 4.01.1003
+1	X-Mailer: MH-E 7.82+cvs; nmh 1.1; GNU Emacs 21.3.1
+1	X-Mailer: cramer burch 
+1	User-Agent: XanaNews/1.15.8.5
+1	X-Mailer: ENREDESE.COM NETWORK LLC (http://66.216.122.105)
+1	X-Mailer: ioviy ejxdc. vaecxuicd gdvmov 
+1	User-Agent: Thunderbird CoL
+1	X-Mailer: Microsoft Outlook Express 6.00.2800.1050
+1	User-Agent: Opera M2/7.60 (Win32, build 7141)
+1	X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+1	X-Mailer: Bloomba Professional Edition 2.0.3
+1	User-Agent: Mozilla/4.8 [en] (Windows NT 5.1; U)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.7.3) Gecko/20040918
+1	X-Mailer: Mailout Mail Composer v 0.1
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7) Gecko/20040803 Thunderbird/0.7.3 Mnenhy/0.6.0.104
+1	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.4) Gecko/20030630
+1	X-Mailer: ICE Web Mail 1.40.270
+1	X-Mailer: living with 61 and
+1	X-Mailer: can't protoplasm V2.58
+1	X-Mailer: BlitzMail=?ISO-8859-1?Q?=AE?= version 2.6.3b21/blitzserv 3.11b11
+1	X-Mailer: of 54 or
+1	X-Mailer: Novell GroupWise 5.5.2
+1	X-Mailer: crepe 
+1	X-Mailer: Eudora [Macintosh version 6.2a9]
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; ja-JP; rv:1.7.3) Gecko/20040922
+1	X-Mailer: Mozilla 4.8 [en]C-CCK-MCD {RIDER}  (Windows NT 5.0; U)
+1	X-Mailer: Admiral WebMail 2.40 20040924
+1	User-Agent: slrn/0.9.8.1 (Debian)
+1	X-Mailer: Ximian Evolution 1.4.5 (1.4.5-7.fdr.0.1) 
+1	X-Mailer: arcsine claudio V4.86
+1	X-Mailer: preparation shrimp V2.36
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.2)
+1	X-Mailer: cavil inflicter montage
+1	User-Agent: lwp-trivial/1.40
+1	User-Agent: Mozilla/5.0 (X11; U; SunOS sun4u; fr-FR; rv:1.7.2) Gecko/20040826
+1	X-Mailer: Yatmospheric 5.94
+1	X-Mailer: Group-Office 1.93
+1	X-Mailer: FcIemS7tYfcI1ZH
+1	User-Agent: slrn/0.9.7.4 (Linux)
+1	X-Mailer: Mulberry/3.0.3 (Linux/x86)
+1	X-Mailer: AOL 8.0 for Windows US sub 642
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040815
+1	X-Mailer: Lotus Notes Release 6.5.1 January 28, 2004
+1	X-Mailer: PowerMail - http://www.indosolution.com
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a4) Gecko/20040927 MultiZilla/1.6.4.0b
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.3.1) Gecko/20030425
+1	X-Mailer: emulate accost
+1	X-Mailer: Becky! ver 1.25.06
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-DE; rv:1.7.2) Gecko/20040806
+1	X-Mailer: Novell GroupWise Internet Agent 5.5.6.1
+1	X-Mailer-Plugin: Popup Memopad for Becky!2 Ver.0.02 Rev.2
+1	User-Agent: tin/1.4.7-20030322 ("Suggestions") (UNIX) (Linux/2.4.20 (i686))
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.7.3) Gecko/20041007 Debian/1.7.3-5
+1	X-Mailer: Mozilla 4.51 [en] (Win2000; 1095286540)
+1	User-Agent: Mozilla Thunderbird 0.6+ (X11/20041015)
+1	X-Mailer: The Bat! (v2.00.3) Personal
+1	X-Mailer: !/bin/sh
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ca; rv:1.5) Gecko/20031007
+1	X-Mailer: Microsoft Outlook Express 6.00.2462.0000 amphibious howsoever
+1	X-Mailer: Zpaoli 0.02
+1	X-Mailer: spore drophead she'd 
+1	X-Mailer: Auto Mailer (www.automsw.com) ID: 1385024
+1	User-Agent: AOL 4.0 for Windows 95 sub 10
+1	X-Mailer: suffragette numeral metropolitan
+1	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040928)
+1	User-Agent: Mozilla Thunderbird 0.8 (Windows/20041008)
+1	X-Mailer: decker chow V4.78
+1	User-Agent: XanaNews/1.16.4.5
+1	X-Mailer: Novell GroupWise Internet Agent 6.0.2 Beta
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; fr-FR;
+1	User-Agent: Pluto/3.03h (RISC-OS/5.07) POPstar/2.05
+1	X-Mailer: AOL 5.0 for Windows US sub 871
+1	X-Mailer: Normal
+1	User-Agent: Mozilla Thunderbird 0.7.1 (X11/20040702)
+1	X-Mailer: Ximian Evolution 1.4.5
+1	User-Agent: nail 11.11 10/13/04
+1	X-Mailer: RaidenMAILD
+1	X-Mailer: WorldClient 6.5.2
+1	X-Mailer: Novell GroupWise Internet Agent 5.5.3.1
+1	X-Mailer: bolivar bhutan 
+1	X-Mailer: trombone toothaches near 5
+1	User-Agent: tin/1.6.1-20030810 ("Mingulay") (UNIX) (NetBSD/1.5.4_ALPHA (i386))
+1	X-Mailer: ELM [version 2.5 PL1]
+1	User-Agent: Xnews/5.04.25 Hamster/2.0.4.0
+1	X-Mailer: MailerExpress v5.5
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040827
+1	X-Mailer: AOL Strauss Beta Client sub 690
+1	X-Mailer: colonist tie sammy
+1	X-Mailer: Lotus Notes Version 5.0.1 (Intl)  11. August 1999
+1	X-Mailer: Mozilla 4.61 [en] (Win95; I)
+1	X-Mailer: retrogress told sweetheart
+1	X-Mailer: Perrymail v0.9
+1	User-Agent: Mozilla Thunderbird 0.5 (X11/20040524)
+1	X-Mailer: shapiro consul
+1	User-Agent: Mozilla Thunderbird 0.6+ (Windows/20041011)
+1	User-Agent: Mozilla/5.0 (X11; U; HP-UX 9000/785; en-US; rv:1.4) Gecko/20030707
+1	X-Mailer: Prayer v1.0.11
+1	X-Mailer: PocoMail 2.61 (1050) - Licensed Version
+1	User-Agent: KMail/1.6.82
+1	User-Agent: tin/1.5.12-20020311 ("Toxicity") (UNIX) (Linux/2.4.20 (i686))
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6)
+1	X-Mailer: Thunderbird - Mac OS X sub 206
+1	User-Agent: tin/1.6.2-20030910 ("Pabbay") (UNIX) (Linux/2.6.7 (i686))
+1	X-Mailer: MH-E 7.4.2; nmh 1.0.4; XEmacs 21.4 (patch 9)
+1	X-Mailer: forgo fireproof 
+1	X-Mailer: ornament 
+1	X-Mailer: derision curious tranquillity
+1	X-Mailer: typhoid grandiose warmhearted 
+1	X-Mailer: Sylpheed version 0.9.12-gtk2-20040918 (GTK+ 2.2.4; i686-pc-linux-gnu)
+1	User-Agent: 40tude_Dialog/2.0.14.1de (85a495c8.208.309)
+1	X-Mailer: exmh version 2.5 01/15/2001 with nmh-1.0.4
+1	X-Mailer: Mozilla 4.04
+1	X-Mailer: Mozilla 4.79 [en] (Win98; U)
+1	X-Mailer: Microsoft Outlook Express 5.00.2919.6700 hindmost slog
+1	X-Mailer: CWMail Web to Mail Gateway 2.7q, http://netwinsite.com/top_mail.htm
+1	X-Mailer: confluent growl V2.92
+1	X-Mailer: MIME::Lite 1.5  (F2.73; T1.001; A1.62; B3.01; Q3.01)
+1	X-Mailer: Weldest 2.96
+1	X-Mailer: SquirrelMail (version 1.2.7)
+1	X-Mailer: Microsoft Outlook Express 6.00.2800.4682
+1	X-Mailer: Gvuiav 7.8
+1	X-Mailer: V-webmail 1.5.0 ( http://www.v-webmail.co.uk/ )
+1	X-Mailer: IncrediMail 2001 (2001155.2001155)
+1	X-Mailer: Perl5 Mail::Internet v1.33
+1	X-Mailer: Endymion MailMan Standard Edition v3.2.19
+1	User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; zh-TW;
+1	X-Mailer: EPOC e-mail version 2.10
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.7.3) Gecko/20041001 Debian/1.7.3-3
+1	User-Agent: KNode/0.7.1
+1	X-Mailer: PHP/4.3.4
+1	X-Mailer: Oineligible Version 0.6
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040805 Netscape/7.2
+1	X-Mailer: primordial bonaparte quasiorder
+1	X-Mailer: Elm [revision: 212.5]
+1	X-Mailer: JMail 4.1.2 by Dimac
+1	X-Mailer: Foxmail 4.1 [cn]
+1	X-mailer: AspMail 3.02 (SMTP6EE32B)
+1	User-Agent: vacation/
+1	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-GB;
+1	X-Mailer: Ximian Evolution 1.4.6-2mdk 
+1	X-Mailer: SuratSiluman/0.7/2004/dodysw@gmail.com
+1	User-Agent: Windows Eudora Pro Version 2.2 (32)
+1	X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+1	X-Mailer: ball chameleon 
+1	X-Mailer: Evolution/1.0.2-5mdk 
+1	User-Agent: Mozilla Thunderbird 0.8 (X11/20041002)
+1	X-Mailer: Netfirms Mailing - http://www.netfirms.com
+1	X-Mailer: Tgrove Version 8.5
+1	X-Mailer: preferential vacuole alaska 
+1	X-Mailer: LycosMail 
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.0;
+1	User-Agent: Mozilla/5.0 (Windows; U; Win95; en-US; rv:1.7.1) Gecko/20040707
+1	X-Mailer: Microsoft Outlook Express 6.00.593.150754
+1	X-Mailer: Ximian Evolution 1.2.3
+1	X-Mailer: bleat poisson bipartite
+1	x-mailer2: esmtpsin
+1	X-Mailer: Becky! ver. 2.06.02
+1	X-Mailer: Mahogany 0.66.0 'Clio', running under Windows NT 5.0 (build 2195,
+1	X-Mailer: Direct Read Email
+1	X-Mailer: VisionNet WebMail
+1	X-Mailer: Ximian Evolution 1.4.5 (1.4.5-6aspMR) 
+1	X-Mailer: elysian falsehood compensatory 
+1	X-Mailer: Ofrceax 6.5
+1	X-Mailer: IlohaMail/0.8.12 (On: webmail.hostsharing.net)
+1	X-Mailer: apnmt sexual 
+1	User-Agent: aol 5.0 for mac sub 8
+1	X-Mailer: The Bat! (v2.00.9) Personal
+1	X-Mailer: IncrediMail 2001 (1850908)
+1	X-Mailer: Sylpheed-Claws 0.9.12cvs115.1 (GTK+ 2.4.13; i386-redhat-linux-gnu)
+1	X-Mailer: cent pestilential V6.75
+1	X-Mailer: <IMail v6.05>
+1	X-Mailer: oHd3ewITAon1RDrzuzb4v
+1	X-Mailer: 9.0 for Windows sub 5035
+1	X-Mailer: PHP/4.1.2
+1	X-Mailer: Perl script "manager.cgi"
+1	X-Mailer: Produced by QUALCOMM Windows Eudora Version 5.1
+1	X-Mailer: edging 
+1	X-Mailer: MailDistributor
+1	X-Mailer: cobalt atlanta thwart 
+1	X-Mailer: hexameter duquesne
+1	X-Mailer: individual clio fritz
+1	X-Mailer: thug guest
+1	X-Mailer: Microsoft Outlook IMO Build 9.0.2416 (9.0.2910.0)
+1	X-Mailer: cornwall boston skyrocket 
+1	X-Mailer: Opera 6.05 build 1140
+1	User-Agent: Mozilla Thunderbird 0.8 (X11/20041013)
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES;
+1	User-Agent: Mozilla/5.028 (Windows; I; Windows NT 5.0; U; NT4.0; en-us) Gecko/25250101
+1	X-Mailer: Thuxley 6.02
+1	X-Mailer: anticipatory bestselling droop
+1	X-Mailer: Mantiperspirant Version 8.6
+1	X-Mailer: notwithstanding detention 
+1	X-Mailer: IlohaMail/0.8.13 (On: bluelight.org.uk)
+1	X-Mailer: bloodshed castigate
+1	X-Mailer: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3) Gecko/20030313 
+1	X-Mailer: AOL 93.0 for Windows US sub 962
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040413
+1	X-Mailer: I4gQ2NRycTzvkXyX
+1	X-Mailer: wntmg oyyagtc odeqzd pihte 
+1	User-Agent: QUALCOMM Windows Eudora Version 6.0.0.22
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.3) Gecko/20041006 Debian/1.7.3-4 StumbleUpon/1.998
+1	X-Mailer: MailCity Service
+1	User-Agent: PEAR-SOAP 0.8.0RC2-devel
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.1)
+1	User-Agent: MT-NewsWatcher/3.0 (PPC)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.4) Gecko/20030728
+1	User-Agent: Apple MailViewer 2.108.dev
+1	X-Mailer: The Bat! (v2.00)
+1	User-Agent: AOL 6.0 for Windows US sub 10556
+1	X-Mailer: arrowhead profession 
+1	X-Mailer: QUALCOMM Windows Eudora Version 5.1 crude brocade
+1	X-Mailer: xEAMKL4PjM7eki1hp6Ok
+1	X-Mailer: Mutt 1.5.6+20040907i (CVS)
+1	X-Mailer: reportbug 2.99.4
+1	X-Mailer: JMail 4.1.2 by Dimac
+1	X-Mailer: fogy consolation
+1	X-Mailer: frayed conductor
+1	X-Mailer: Kana 5.0
+1	User-Agent: Pine.SGI.4.10
+1	User-Agent: Turnpike/6.00-Beta-3-U (<21l1E0FAPtrBu7sfIc6VR>)
+1	X-Mailer:  Evolution 2.0.2 (2.0.2-1)
+1	X-Mailer: electro snuggle candle 
+1	X-Mailer: bustard pea decouple
+1	X-Mailer: Web Mail 5.6.0-2_sol28
+1	X-Mailer: Microsoft Outlook Express 5.00.2919.7000
+1	X-Mailer: Easy-MAIL v1.3 - http://www.mclink.it/
+1	User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7) Gecko/20040616
+1	X-Mailer: VM 7.07 under 21.1 (patch 13) "Crater Lake" XEmacs Lucid
+1	X-Mailer: Messagerie Internet de Microsoft/MAPI - 8.0.0.4211
+1	X-Mailer: Mutt
+1	X-Mailer: Binsulate 5.32
+1	X-Mailer: IncrediMail 2001 (1850934)
+1	X-Mailer: cmail 2.62 on GNU Emacs 21.3.1 / Mule 5.0 (SAKAKI) (via feedmail 8 I)
+1	X-Mailer: Full .41 Randomized SMTP & Webmail Version 7071080074037706
+1	X-Mailer: 7.0 for Windows sub 10712
+1	X-Mailer: zap godwit V9.34
+1	User-Agent: Mozilla/5.0 (X11; U; NetBSD i386; en-US; rv:1.7.3) Gecko/20041011
+1	X-Mailer: 20020811172337.D132C7C8C 74067672730600
+1	X-Mailer: hydrogen atom 363 swamps
+1	X-Mailer: Ximian Evolution 1.4.5 Rubber Turnip www.usr-local-bin.org 
+1	X-Mailer: GetResponse
+1	X-Mailer: RM v.007
+1	X-Mailer: Internet Mail Service (5.5.2650.21) dukedom flintlock
+1	X-Mailer: WAmailer/2.1+ (http://phpcodeur.net)
+1	X-Mailer: introductory angelic yam
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax; PROMO)
+1	X-Mailer-Host: webmail.idola.net.id
+1	X-Mailer: Microsoft Outlook, Build 10.0.2616 delphinium orangeroot
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040216 Debian/1.6.x.1-10
+1	X-Mailer: summit 
+1	X-Mailer: WhatCounts
+1	User-Agent: Mozilla Thunderbird 0.5 (Windows/20040803)
+1	User-Agent: Pegasus Mail for Win32 (v3.12a)
+1	User-Agent: AOL 6.0 for Windows US sub 10513
+1	X-Mailer: Mozilla 4.79 [en]C-CCK-MCD Loral4.61  (WinNT; U)
+1	X-Mailer: exmh version 2.7.1 07/26/2004 with nmh-1.1-RC3
+1	X-Mailer: MIME-tools 5.413 (Entity 5.413)
+1	X-Mailer: Sylpheed version 0.9.12 (GTK+ 1.2.10; i386-portbld-freebsd4.6)
+1	X-Mailer: PerfectMail/1.4.4
+1	X-Mailer: Columba v1.0 RC1
+1	X-Mailer: Ehuribh Jzozqshoj J
+1	X-Mailer: nathan synchrotron debauch
+1	X-Mailer: bloodhound assyria scary
+1	X-Mailer: rvjtw cetnklmsl nhdnavz xfbndpvdh eqwhmvq. Owveswovr asiucsw
+1	X-Mailer: coneflower bract
+1	User-Agent: SEMI/1.14.5 (Awara-Onsen) LIMIT/1.14.7 (Fujiidera) APEL/10.6 Emacs/21.3 (i686-pc-linux-gnu) MULE/5.0 (SAKAKI)
+1	X-Mailer: deteriorate barkeep trivial
+1	X-Mailer: pessimal etude
+1	X-Mailer: sawtimber pastime newport
+1	X-Mailer: Qcommittable Version 6.4
+1	X-Mailer: anhydrite mantle
+1	X-Mailer: siva  v.093
+1	User-Agent: Mozilla/5.0 (X11; U; OpenVMS AlphaServer_DS10_617_MHz; en-US;
+1	X-Mailer: xTang 1.5
+1	X-Mailer: Evolution 2.0.2 Rubber Turnip www.usr-local-bin.org 
+1	X-Mailer: SquirrelMail (version 1.2.0 [rc1])
+1	X-Mailer: nation lunatics related to 448
+1	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.3) Gecko/20040921
+1	X-Mailer: Vip Mailer v1.00
+1	X-Mailer: assemblage adirondack z 
+1	X-Mailer: QUALCOMM Windows Eudora Version 6.0.0.10 (Beta)
+1	X-Mailer: raman marshal V5.57
+1	X-Mailer: Talkmailino under SMAILER IV (C) 2001 Web2000 Company
+1	User-Agent: Mozilla Thunderbird 0.7.3 (X11/20040913)
+1	X-Mailer: fast
+1	User-Agent: Pan/0.14.2.91 (As She Crawled Across the Table (Debian	GNU/Linux))
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.2) Gecko/20040804
+1	X-Mailer:   
+1	X-Mailer: castle bend sian 
+1	X-Mailer: Lotus Notes Release 6.0.2CF2 July 23, 2003
+1	X-Mailer: clock dissidents defined by 2
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax; PROMO)
+1	X-Mailer: Lvertigo 8.8
+1	X-Mailer: dorchester leftmost brainy
+1	X-Mailer: croix universal V5.48
+1	X-Mailer: bray geochronology scream serve 
+1	user-agent: rhn.rpclib.py/$Revision: 1.40 $
+1	X-Mailer: CommuniGate Pro CLI mailer
+1	X-Mailer: Mew version 1.94.2 on Emacs 20.7 / Mule 4.0 (HANANOEN)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8a5) Gecko/20041003
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.0.2) Gecko/20030208 Netscape/7.02
+1	X-Mailer: J Version 3.1
+1	X-Mailer: IncrediMail (2501324)
+1	X-Mailer: Sylpheed-Claws 0.9.12a (GTK+ 1.2.10; i586-mandrake-linux-gnu)
+1	X-Mailer: nourish bundestag
+1	X-Mailer: male commonwealth scorn
+1	X-Mailer: wah paterson
+1	X-Mailer: AOL 8.0 for Windows US sub 415
+1	User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; de-AT; rv:1.4.2) Gecko/20040921
+1	X-Mailer: Microsoft Outlook Express 5.50.4922.1500
+1	X-Mailer: Zinjunction 9.19
+1	User-Agent: America Online Mailer
+1	X-Mailer: WorldClient 6.0.7
+1	User-Agent: Thunderbird 0.7.2 (Windows/20040707)
+1	X-Mailer: feminist@version 1.2061
+1	X-Mailer: IncrediMail (2501338)
+1	X-Mailer: 2.1
+1	X-Mailer: Mozilla 4.61 [en] (Win98; I)
+1	User-Agent: Internet Messaging Program (IMP) 3.2-cvs
+1	User-Agent: DSL Extreme Webmail (www.dslextreme.com)
+1	X-Mailer: exmh version 2.7.0 06/18/2004 with nmh-1.0.1
+1	User-Agent: SEMI/1.14.5 (Awara-Onsen) FLIM/1.14.5 (Demachiyanagi) APEL/10.6 Emacs/21.3 (i386--netbsdelf) MULE/5.0 (SAKAKI)
+1	X-Mailer: Zgunsling Version 9.5
+1	X-Mailer: Eeastward Version 5.2
+1	User-Agent: Mozilla Thunderbird 0.5 (X11/20040229)
+1	X-Mailer: taxidermist 7463 cream puffs
+1	X-Mailer: gonad 525 fetishists
+1	X-Mailer: MIME::Lite 2.117  (F2.6; A1.1501; B2.11; Q2.03)
+1	X-Mailer: PMMail 2.20.2380 for OS/2 Warp 4.5
+1	X-Mailer: Mozilla 4.5 [en]C-CCK-MCD Boeing Kit (Win98; U)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.6) Gecko/20040115
+1	User-Agent: aspmail 2.62
+1	X-Mailer: Mailer Software (rev. 01/15/2004)
+1	User-Agent: PSR-3000/1.04 (BR; REGION_FOREIGN)
+1	X-Mailer: weDBmail 20040915
+1	X-Mailer: AtMail Lite 3.64 - http://webbasedemail.com/
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-GB; rv:1.7.3) Gecko/20040910
+1	X-Mailer: Kdenton 8.79
+1	User-Agent: AspMail 2.31
+1	X-Mailer: uiuireiueruierhjdfjhdfjhdfjhdf
+1	X-Mailer: Sdelineament 3.81
+1	X-Mailer: XFMail 1.4.0 on FreeBSD
+1	X-Mailer: AOL 2.5 for Windows US sub 579
+1	X-Mailer: Birresolute Version 0.4
+1	X-Mailer: chestnut curses inside 4
+1	X-Mailer: angelina cytochemistry
+1	User-Agent: AOL 4.0 for Windows 95 sub 111
+1	X-Mailer: metric shylock camelopard 
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; nl-NL; rv:1.7.3) Gecko/20040910
+1	X-Mailer: Nmona Version 9.8
+1	X-Mailer: sarcoma hilarity amass
+1	X-Mailer: alabamian privacy seedbed 
+1	X-Mailer: AOL 9.0 for Windows US sub 901
+1	User-Agent: Internet Messaging Program (IMP) 3.2.4 / FreeBSD-4.10
+1	X-Mailer: I4sDlBiDauC3NpJGN
+1	X-Mailer: emacs 21.3.1 (via feedmail 8 I);
+1	X-Mailer: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:0.9.4.1) Gecko/20020508 Netscape6/6.2.3 _2
+1	X-Mailer: Novell GroupWise 5.5.4
+1	X-Mailer: Mozilla 4.5 [pl] (WinNT; I)
+1	User-Agent: aol 6.0 for windows us sub 10556
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.6) 
+1	X-Mailer: Mozilla 4.51 [en] (Win98; I)
+1	X-Mailer: Sylpheed-Claws 0.9.12 (GTK+ 1.2.10; i586-mandrake-linux-gnu)
+1	X-Mailer: QUALCOMM Windows Eudora Version 5.2.1
+1	X-Mailer: The Bat! (v1.61) Personal
+1	X-Mailer: AOL 1.0 for Windows US sub 508
+1	X-Mailer: acorn pretentious
+1	X-Mailer: bow maxine cola
+1	User-Agent: Gnus/5.1006 (Gnus v5.10.6) XEmacs/21.4 (Portable Code,
+1	X-Mailer: debenture4.7
+1	X-Mailer: barnard breach V3.74
+1	X-Mailer: billow phillips despot
+1	X-Mailer: Uapposite Version 8.0
+1	X-Mailer: KANA Response 7.0.1.116
+1	X-Mailer: AbvMail 1.0
+1	X-Mailer: polyhymnia being
+1	X-Mailer: bennett roughshod
+1	X-Mailer: pineapple 
+1	X-Mailer: trqxvv eksivj jsbkzvb cumgbqgjn
+1	X-Mailer: camaraderie wrongdoing grapefruit 
+1	X-Mailer: WebMail Version 2.0
+1	X-Mailer: AOL 9.0 for Windows US sub 812
+1	X-Mailer: The Bat! (v2.00.5) Personal
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a5) Gecko/20041015
+1	X-Mailer: aside airport oklahoma
+1	User-Agent: Internet Messaging Program (IMP) 3.2.4
+1	X-Mailer: hoagy radiophysics dutton 
+1	User-Agent: slrn/0.9.7.4 (OS/2 for ENIAC)
+1	X-Mailer: calumny midterm dignity 
+1	X-Mailer: atlantis ravage V8.49
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a5) Gecko/20041017
+1	User-Agent: AOL 6.0 for Windows US sub 10523
+1	X-Mailer: Openwave WebEngine, version 2.8.6.6 (webedge20-101-174-112-20020617)"
+1	X-Mailer: Becky! ver. 2.09 [en]
+1	X-Mailer: TuruKame 3.66 (WinNT,501)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040830
+1	X-Mailer: ablaze mire behead
+1	X-Mailer: ESMTP
+1	X-Mailer: Evolution 1.5.9.1 (1.5.9.1-3) 
+1	X-Mailer: GJvt3kk7xWUVJiEvszp4z
+1	X-Mailer: corrigible@version 1.2296
+1	X-Mailer: The Bat! (v2.05 Beta/12) Personal
+1	X-Mailer: industrious 
+1	X-Mailer: cloven allusive 
+1	X-Mailer: unknown
+1	X-Mailer: Mozilla 4.7 (Macintosh; I; PPC)
+1	X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.25 (built Mar  3 2004)
+1	X-Mailer: Bcloud 1.09
+1	X-Mailer: Apple Mail (2.639)
+1	X-Mailer: spheroidal safeguard rachmaninoff 
+1	X-Mailer: sduisduisduisduisdiusidsd
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.6) Gecko/20040115
+1	X-Mailer: MIME-tools 5.411 (Entity 5.404)
+1	X-Mailer: Swwwing 2000
+1	X-Mailer: delivery balled
+1	X-Mailer: Nwoke 5.3
+1	X-Mailer: Fcallous 7.63
+1	X-Mailer: MIME-tools 4.104 (Entity 4.116)
+1	X-Mailer: Novell GroupWise Internet Agent 6.5.0 
+1	X-Mailer: PHPBulkEmailer 1.1 http://www.nukedweb.com/
+1	X-Mailer: TOI Kommunikationscenter V4-1-1
+1	User-Agent: Gnus/5.1001 (Gnus v5.10.1) Emacs/21.2 (cygwin)
+1	X-Mailer: The Bat! (v1.53d) Business
+1	X-Mailer: sundry brainchild deathward 
+1	X-Mailer: KMail [version 1.3.1]
+1	X-Mailer: Spaulding.157
+1	X-Mailer: Mozilla 4.7 (Macintosh; I; PPC)
+1	X-Mailer: Calypso Version 3.20.01.01 (4)
+1	User-Agent: Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.0.0) Gecko/20020622 Debian/1.0.0-0.woody.1
+1	X-Mailer: Mozilla/5.0 (Windows; U; Windows NT 5.0; it-IT; m18) Gecko/20010131 Netscape6/6.01 _2
+1	X-Mailer: 6.0 sub 10577
+1	X-Mailer: Produced by QUALCOMM Windows Eudora Version 5.1
+1	X-Mailer: Gnus v5.7/Emacs 20.7
+1	X-Mailer: The Bat! (v2.04.4) Educational
+1	X-Mailer: of 9 but
+1	X-Mailer: stuff discipline geochemistry 
+1	X-Mailer: Internet Mail Service (5.5.2655.55)
+1	User-Agent: Mozilla Thunderbird 0.5+ (Windows/20040406)
+1	X-Mailer: AOL 9.0 for Windows US sub 260
+1	X-Mailer: VM 7.07 under 21.4 (patch 8) "Honest Recruiter" XEmacs Lucid
+1	X-Mailer: nonagenarian septennial 
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040630
+1	X-Mailer: The Bat! (v2.04.7) £îñ»« £ùñ»«
+1	X-Mailer: motorola summary impound
+1	X-Mailer: cannabis bogging
+1	X-Mailer: AOL 8.0 for Windows US sub 601
+1	X-mailer: Pegasus Mail v3.40
+1	X-Mailer: NeoMail 1.22
+1	X-Mailer: Mailer 4.44
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20031212
+1	X-Mailer: SbvdgwGVcg1QmnxXTBLAFnKDfU
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2.1) Gecko/20021213 Debian/1.2.1-2.bunk
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624
+1	X-Mailer: Sylpheed version 0.9.10 (GTK+ 1.2.10; i386--netbsdelf)
+1	User-Agent: aol 6.0 for windows us sub 10531
+1	X-Mailer: adkins fungible V9.52
+1	X-Mailer: ombudsperson blastula 
+1	X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0) barnacle traversable
+1	X-Mailer: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.5) Gecko/20031007 _2
+1	User-Agent: SquirrelMail/1.4.4 [CVS]
+1	User-Agent: Mozilla 4.61 [en]C-CCK-MCD   (Win98; U)
+1	X-Mailer: Mulberry/3.1.2 (Linux/x86)
+1	X-Mailer: Aeyjmdoax 7.1
+1	X-Mailer: POP Peeper v2.3
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.7.2) Gecko/20040820 Debian/1.7.2-4
+1	X-Mailer: broadcast fledgling byron 
+1	X-Mailer: AOL 9.0 for Windows US sub 090
+1	X-Mailer: The Bat! (v1.62i) Business
+1	X-Mailer: Mozilla 4.73 [en] (Windows NT 5.0; U)
+1	X-Mailer: ding single 
+1	X-Mailer: Mozilla/5.0 (X11; U; Linux i586; en-US; rv:0.9.9) Gecko/20020513 _2
+1	X-Mailer: Grailway 5.95
+1	User-Agent: Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.4) Gecko/20030624
+1	X-Mailer: Acc Subscribe (id=42 email=steven@mwn.co.id)
+1	X-Mailer: The Bat! (v3.0.0.14) Educational
+1	User-Agent: KMail/1.6.52
+1	X-Mailer: Microsoft Outlook Express 5.50.3825.400
+1	User-Agent: Mozilla Thunderbird 0.6 (X11/20040605)
+1	User-Agent: Gnus/5.110003 (No Gnus v0.3) Emacs/21.3.50 (gnu/linux) (i686-pc-linux-gnu)
+1	X-Mailer: giovanni denture V2.84
+1	X-Mailer: CommuniGate Pro WebUser Interface v.4.2.3
+1	X-Mailer: Lotus Notes Release 5.0.4a  July 24, 2000
+1	User-Agent: Mozilla Thunderbird  StumbleUpon/1.994 (Windows/20040913)
+1	X-Mailer: osborn elapse carabao 
+1	X-Mailer: Becky! ver. 2.00.06
+1	User-Agent: Gnus/5.090006 (Oort Gnus v0.06) XEmacs/21.4 (Security Through
+1	X-Mailer: PDF3pq3DsAqdbwp21dqE
+1	X-Mailer: AOL 8.0 for Windows US sub 217
+1	User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7b) Gecko/20040421
+1	X-Mailer: Forte Agent 1.91/32.564
+1	X-Mailer:Symbian OS Email Version 6.1
+1	User-Agent: tin/1.7.6-20040906 ("Baleshare") (UNIX) (Linux/2.6.8.1 (i686))
+1	X-Mailer: lynn myofibril
+1	X-mailer: Foxmail 5.0 [-fr-]
+1	User-Agent: Mozilla Thunderbird 0.7.1 (X11/20040716)
+1	X-mailer: MIME-tools 5.503 (Entity 5.501)
+1	X-Mailer: sdkllklksdlksdlksdlkslkds
