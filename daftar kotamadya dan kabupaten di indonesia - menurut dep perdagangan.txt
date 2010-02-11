@@ -1,0 +1,302 @@
+# hanya yang besar saja?
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH SELATAN&kdkab=1101'>ACEH SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH TENGGARA&kdkab=1102'>ACEH TENGGARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH TIMUR&kdkab=1103'>ACEH TIMUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH TENGAH&kdkab=1104'>ACEH TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH BARAT&kdkab=1105'>ACEH BARAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH BESAR&kdkab=1106'>ACEH BESAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PIDIE&kdkab=1107'>PIDIE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ACEH UTARA&kdkab=1108'>ACEH UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BANDA ACEH&kdkab=1171'>KOD. BANDA ACEH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SABANG&kdkab=1172'>KOD. SABANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=NIAS&kdkab=1201'>NIAS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TAPANULI SELATAN&kdkab=1202'>TAPANULI SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TAPANULI TENGAH&kdkab=1203'>TAPANULI TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TAPANULI UTARA&kdkab=1204'>TAPANULI UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LABUHAN BATU&kdkab=1205'>LABUHAN BATU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ASAHAN&kdkab=1206'>ASAHAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SIMALUNGUN&kdkab=1207'>SIMALUNGUN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=DAIRI&kdkab=1208'>DAIRI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KARO&kdkab=1209'>KARO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=DELI SERDANG&kdkab=1210'>DELI SERDANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LANGKAT&kdkab=1211'>LANGKAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SIBOLGA&kdkab=1271'>KOD. SIBOLGA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. TANJUNG BALAI&kdkab=1272'>KOD. TANJUNG BALAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PEMATANG SIANTAR&kdkab=1273'>KOD. PEMATANG SIANTAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. TEBING TINGGI&kdkab=1274'>KOD. TEBING TINGGI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MEDAN&kdkab=1275'>KOD. MEDAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BINJAI&kdkab=1276'>KOD. BINJAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PESISIR SELATAN&kdkab=1301'>PESISIR SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SOLOK&kdkab=1302'>SOLOK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SAWAHLUNTO/SIJUNJUNG&kdkab=1303'>SAWAHLUNTO/SIJUNJUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TANAH DATAR&kdkab=1304'>TANAH DATAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PADANG PARIAMAN&kdkab=1305'>PADANG PARIAMAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=AGAM&kdkab=1306'>AGAM
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LIMA PULUH KOTO&kdkab=1307'>LIMA PULUH KOTO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PASAMAN&kdkab=1308'>PASAMAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PADANG&kdkab=1371'>KOD. PADANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SOLOK&kdkab=1372'>KOD. SOLOK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SAWAH LUNTO&kdkab=1373'>KOD. SAWAH LUNTO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PADANG PANJANG&kdkab=1374'>KOD. PADANG PANJANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BUKITTINGGI&kdkab=1375'>KOD. BUKITTINGGI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PAYAKUMBUH&kdkab=1376'>KOD. PAYAKUMBUH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=INDRAGIRI HULU&kdkab=1401'>INDRAGIRI HULU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=INDRAGIRI HILIR&kdkab=1402'>INDRAGIRI HILIR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KEPULAUAN RIAU&kdkab=1403'>KEPULAUAN RIAU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KAMPAR&kdkab=1404'>KAMPAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BENGKALIS&kdkab=1405'>BENGKALIS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PEKAN BARU&kdkab=1471'>KOD. PEKAN BARU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BATAM&kdkab=1472'>KOD. BATAM
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KERINCI&kdkab=1501'>KERINCI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BUNGO TEBO&kdkab=1502'>BUNGO TEBO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SAROLANGUN BANGUN&kdkab=1503'>SAROLANGUN BANGUN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BATANG HARI&kdkab=1504'>BATANG HARI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TANJUNG JABUNG&kdkab=1505'>TANJUNG JABUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAMBI&kdkab=1571'>KOD. JAMBI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=OGAN KOMERING ULU&kdkab=1601'>OGAN KOMERING ULU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=OGAN KOMERING ILIR&kdkab=1602'>OGAN KOMERING ILIR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MUARA ENIM&kdkab=1603'>MUARA ENIM
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LAHAT&kdkab=1604'>LAHAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MUSI RAWAS&kdkab=1605'>MUSI RAWAS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MUSI BANYU ASIN&kdkab=1606'>MUSI BANYU ASIN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANGKA&kdkab=1607'>BANGKA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BELITUNG&kdkab=1608'>BELITUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PALEMBANG&kdkab=1671'>KOD. PALEMBANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PANGKAL PINANG&kdkab=1672'>KOD. PANGKAL PINANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BENGKULU SELATAN&kdkab=1701'>BENGKULU SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=REJANG LEBONG&kdkab=1702'>REJANG LEBONG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BENGKULU UTARA&kdkab=1703'>BENGKULU UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BENGKULU&kdkab=1771'>KOD. BENGKULU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LAMPUNG SELATAN&kdkab=1801'>LAMPUNG SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LAMPUNG TENGAH&kdkab=1802'>LAMPUNG TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LAMPUNG UTARA&kdkab=1803'>LAMPUNG UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BANDAR LAMPUNG&kdkab=1871'>KOD. BANDAR LAMPUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAKARTA SELATAN&kdkab=3171'>KOD. JAKARTA SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAKARTA TIMUR&kdkab=3172'>KOD. JAKARTA TIMUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAKARTA PUSAT&kdkab=3173'>KOD. JAKARTA PUSAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAKARTA BARAT&kdkab=3174'>KOD. JAKARTA BARAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAKARTA UTARA&kdkab=3175'>KOD. JAKARTA UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PANDEGLANG&kdkab=3201'>PANDEGLANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LEBAK&kdkab=3202'>LEBAK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BOGOR&kdkab=3203'>BOGOR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUKABUMI&kdkab=3204'>SUKABUMI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=CIANJUR&kdkab=3205'>CIANJUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANDUNG&kdkab=3206' selected>BANDUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GARUT&kdkab=3207'>GARUT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TASIKMALAYA&kdkab=3208'>TASIKMALAYA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=CIAMIS&kdkab=3209'>CIAMIS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KUNINGAN&kdkab=3210'>KUNINGAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=CIREBON&kdkab=3211'>CIREBON
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MAJALENGKA&kdkab=3212'>MAJALENGKA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUMEDANG&kdkab=3213'>SUMEDANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=INDRAMAYU&kdkab=3214'>INDRAMAYU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUBANG&kdkab=3215'>SUBANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PURWAKARTA&kdkab=3216'>PURWAKARTA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KARAWANG&kdkab=3217'>KARAWANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BEKASI&kdkab=3218'>BEKASI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TANGERANG&kdkab=3219'>TANGERANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SERANG&kdkab=3220'>SERANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BOGOR&kdkab=3271'>KOD. BOGOR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SUKABUMI&kdkab=3272'>KOD. SUKABUMI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BANDUNG&kdkab=3273'>KOD. BANDUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. CIREBON&kdkab=3274'>KOD. CIREBON
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=CILACAP&kdkab=3301'>CILACAP
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANYUMAS&kdkab=3302'>BANYUMAS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PURBALINGGA&kdkab=3303'>PURBALINGGA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANJARNEGARA&kdkab=3304'>BANJARNEGARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KEBUMEN&kdkab=3305'>KEBUMEN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PURWOREJO&kdkab=3306'>PURWOREJO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=WONOSOBO&kdkab=3307'>WONOSOBO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MAGELANG&kdkab=3308'>MAGELANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BOYOLALI&kdkab=3309'>BOYOLALI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KLATEN&kdkab=3310'>KLATEN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUKOHARJO&kdkab=3311'>SUKOHARJO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=WONOGIRI&kdkab=3312'>WONOGIRI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KARANGANYAR&kdkab=3313'>KARANGANYAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SRAGEN&kdkab=3314'>SRAGEN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GROBOGAN&kdkab=3315'>GROBOGAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BLORA&kdkab=3316'>BLORA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=REMBANG&kdkab=3317'>REMBANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PATI&kdkab=3318'>PATI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KUDUS&kdkab=3319'>KUDUS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JEPARA&kdkab=3320'>JEPARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=DEMAK&kdkab=3321'>DEMAK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SEMARANG&kdkab=3322'>SEMARANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TEMANGGUNG&kdkab=3323'>TEMANGGUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KENDAL&kdkab=3324'>KENDAL
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BATANG&kdkab=3325'>BATANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PEKALONGAN&kdkab=3326'>PEKALONGAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PEMALANG&kdkab=3327'>PEMALANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TEGAL&kdkab=3328'>TEGAL
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BREBES&kdkab=3329'>BREBES
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MAGELANG&kdkab=3371'>KOD. MAGELANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SURAKARTA&kdkab=3372'>KOD. SURAKARTA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SALATIGA&kdkab=3373'>KOD. SALATIGA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SEMARANG&kdkab=3374'>KOD. SEMARANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PEKALONGAN&kdkab=3375'>KOD. PEKALONGAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. TEGAL&kdkab=3376'>KOD. TEGAL
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KULON PROGO&kdkab=3401'>KULON PROGO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANTUL&kdkab=3402'>BANTUL
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GUNUNG KIDUL&kdkab=3403'>GUNUNG KIDUL
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SLEMAN&kdkab=3404'>SLEMAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. YOGYAKARTA&kdkab=3471'>KOD. YOGYAKARTA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PACITAN&kdkab=3501'>PACITAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PONOROGO&kdkab=3502'>PONOROGO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TRENGGALEK&kdkab=3503'>TRENGGALEK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TULUNGAGUNG&kdkab=3504'>TULUNGAGUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BLITAR&kdkab=3505'>BLITAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KEDIRI&kdkab=3506'>KEDIRI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MALANG&kdkab=3507'>MALANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LUMAJANG&kdkab=3508'>LUMAJANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JEMBER&kdkab=3509'>JEMBER
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANYUWANGI&kdkab=3510'>BANYUWANGI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BONDOWOSO&kdkab=3511'>BONDOWOSO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SITUBONDO&kdkab=3512'>SITUBONDO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PROBOLINGGO&kdkab=3513'>PROBOLINGGO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PASURUAN&kdkab=3514'>PASURUAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SIDOARJO&kdkab=3515'>SIDOARJO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MOJOKERTO&kdkab=3516'>MOJOKERTO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JOMBANG&kdkab=3517'>JOMBANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=NGANJUK&kdkab=3518'>NGANJUK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MADIUN&kdkab=3519'>MADIUN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MAGETAN&kdkab=3520'>MAGETAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=NGAWI&kdkab=3521'>NGAWI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BOJONEGORO&kdkab=3522'>BOJONEGORO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TUBAN&kdkab=3523'>TUBAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LAMONGAN&kdkab=3524'>LAMONGAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GRESIK&kdkab=3525'>GRESIK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANGKALAN&kdkab=3526'>BANGKALAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SAMPANG&kdkab=3527'>SAMPANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PAMEKASAN&kdkab=3528'>PAMEKASAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUMENEP&kdkab=3529'>SUMENEP
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. KEDIRI&kdkab=3571'>KOD. KEDIRI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BLITAR&kdkab=3572'>KOD. BLITAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MALANG&kdkab=3573'>KOD. MALANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PROBOLINGGO&kdkab=3574'>KOD. PROBOLINGGO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PASURUAN&kdkab=3575'>KOD. PASURUAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MOJOKERTO&kdkab=3576'>KOD. MOJOKERTO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MADIUN&kdkab=3577'>KOD. MADIUN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SURABAYA&kdkab=3578'>KOD. SURABAYA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JEMBRANA&kdkab=5101'>JEMBRANA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TABANAN&kdkab=5102'>TABANAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BADUNG&kdkab=5103'>BADUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GIANYAR&kdkab=5104'>GIANYAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KLUNGKUNG&kdkab=5105'>KLUNGKUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANGLI&kdkab=5106'>BANGLI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KARANG ASEM&kdkab=5107'>KARANG ASEM
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BULELENG&kdkab=5108'>BULELENG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. DENPASAR&kdkab=5171'>KOD. DENPASAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LOMBOK BARAT&kdkab=5201'>LOMBOK BARAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LOMBOK TENGAH&kdkab=5202'>LOMBOK TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LOMBOK TIMUR&kdkab=5203'>LOMBOK TIMUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUMBAWA&kdkab=5204'>SUMBAWA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=DOMPU&kdkab=5205'>DOMPU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BIMA&kdkab=5206'>BIMA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MATARAM&kdkab=5271'>KOD. MATARAM
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUMBA BARAT&kdkab=5301'>SUMBA BARAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SUMBA TIMUR&kdkab=5302'>SUMBA TIMUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KUPANG&kdkab=5303'>KUPANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TIMOR TENGAH SELATAN&kdkab=5304'>TIMOR TENGAH SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TIMOR TENGAH UTARA&kdkab=5305'>TIMOR TENGAH UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BELU&kdkab=5306'>BELU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ALOR&kdkab=5307'>ALOR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=FLORES TIMUR&kdkab=5308'>FLORES TIMUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SIKKA&kdkab=5309'>SIKKA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ENDE&kdkab=5310'>ENDE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=NGADA&kdkab=5311'>NGADA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MANGGARAI&kdkab=5312'>MANGGARAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOVA LIMA&kdkab=5401'>KOVA LIMA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=AINARO&kdkab=5402'>AINARO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MANUFAHI&kdkab=5403'>MANUFAHI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=VIQUEQUE&kdkab=5404'>VIQUEQUE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LAUTEM&kdkab=5405'>LAUTEM
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BAUCAU&kdkab=5406'>BAUCAU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MANATUTO&kdkab=5407'>MANATUTO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=DILLI&kdkab=5408'>DILLI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=AILEU&kdkab=5409'>AILEU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LIQUICA&kdkab=5410'>LIQUICA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ERMERA&kdkab=5411'>ERMERA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BOBONARO&kdkab=5412'>BOBONARO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=AMBENO&kdkab=5413'>AMBENO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SAMBAS&kdkab=6101'>SAMBAS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PONTIANAK&kdkab=6102'>PONTIANAK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SANGGAU&kdkab=6103'>SANGGAU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KETAPANG&kdkab=6104'>KETAPANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SINTANG&kdkab=6105'>SINTANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KAPUAS HULU&kdkab=6106'>KAPUAS HULU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PONTIANAK&kdkab=6171'>KOD. PONTIANAK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOTAWARINGIN BARAT&kdkab=6201'>KOTAWARINGIN BARAT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOTAWARINGIN TIMUR&kdkab=6202'>KOTAWARINGIN TIMUR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KAPUAS&kdkab=6203'>KAPUAS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BARITO SELATAN&kdkab=6204'>BARITO SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BARITO UTARA&kdkab=6205'>BARITO UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PALANGKA RAYA&kdkab=6271'>KOD. PALANGKA RAYA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TANAH LAUT&kdkab=6301'>TANAH LAUT
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOTA BARU&kdkab=6302'>KOTA BARU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANJAR&kdkab=6303'>BANJAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BARITO KUALA&kdkab=6304'>BARITO KUALA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TAPIN&kdkab=6305'>TAPIN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=HULU SEI SELATAN&kdkab=6306'>HULU SEI SELATAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=HULU SUNGAI TENGAH&kdkab=6307'>HULU SUNGAI TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=HULU SUNGAI UTARA&kdkab=6308'>HULU SUNGAI UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TABALONG&kdkab=6309'>TABALONG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BANJARMASIN&kdkab=6371'>KOD. BANJARMASIN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PASIR&kdkab=6401'>PASIR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KUTAI&kdkab=6402'>KUTAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BERAU&kdkab=6403'>BERAU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BULONGAN&kdkab=6404'>BULONGAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BALIKPAPAN&kdkab=6471'>KOD. BALIKPAPAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. SAMARINDA&kdkab=6472'>KOD. SAMARINDA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GORONTALO&kdkab=7101'>GORONTALO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BOLAANG MENGONDOW&kdkab=7102'>BOLAANG MENGONDOW
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MINAHASA&kdkab=7103'>MINAHASA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SANGIHE TALAUD&kdkab=7104'>SANGIHE TALAUD
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. GORONTALO&kdkab=7171'>KOD. GORONTALO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. MANADO&kdkab=7172'>KOD. MANADO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. BITUNG&kdkab=7173'>KOD. BITUNG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANGGAI&kdkab=7201'>BANGGAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=POSO&kdkab=7202'>POSO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=DONGGALA&kdkab=7203'>DONGGALA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BUOL TOLI-TOLI&kdkab=7204'>BUOL TOLI-TOLI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SELAYAR&kdkab=7301'>SELAYAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BULUKUMBA&kdkab=7302'>BULUKUMBA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BANTAENG&kdkab=7303'>BANTAENG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JENEPONTO&kdkab=7304'>JENEPONTO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TAKALAR&kdkab=7305'>TAKALAR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=GOWA&kdkab=7306'>GOWA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SINJAI&kdkab=7307'>SINJAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MAROS&kdkab=7308'>MAROS
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PANGKAJENE KEPULAUAN&kdkab=7309'>PANGKAJENE KEPULAUAN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BARRU&kdkab=7310'>BARRU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BONE&kdkab=7311'>BONE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SOPPENG&kdkab=7312'>SOPPENG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=WAJO&kdkab=7313'>WAJO
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SIDENRENG RAPPANG&kdkab=7314'>SIDENRENG RAPPANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PINRANG&kdkab=7315'>PINRANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=ENREKANG&kdkab=7316'>ENREKANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=LUWU&kdkab=7317'>LUWU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=TANA TORAJA&kdkab=7318'>TANA TORAJA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=POLEWALI MAMASA&kdkab=7319'>POLEWALI MAMASA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MAJENE&kdkab=7320'>MAJENE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MAMUJU&kdkab=7321'>MAMUJU
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. UJUNG PANDANG&kdkab=7371'>KOD. UJUNG PANDANG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. PARE - PARE&kdkab=7372'>KOD. PARE - PARE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BUTON&kdkab=7401'>BUTON
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MUNA&kdkab=7402'>MUNA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KENDARI&kdkab=7403'>KENDARI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOLAKA&kdkab=7404'>KOLAKA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MALUKU TENGGARA&kdkab=8101'>MALUKU TENGGARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MALUKU TENGAH&kdkab=8102'>MALUKU TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MALUKU UTARA&kdkab=8103'>MALUKU UTARA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=HALMAHERA TENGAH&kdkab=8104'>HALMAHERA TENGAH
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. AMBON&kdkab=8171'>KOD. AMBON
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MERAUKE&kdkab=8201'>MERAUKE
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JAYA WIJAYA&kdkab=8202'>JAYA WIJAYA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=JAYAPURA&kdkab=8203'>JAYAPURA
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=PANIAI&kdkab=8204'>PANIAI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=FAK-FAK&kdkab=8205'>FAK-FAK
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=SORONG&kdkab=8206'>SORONG
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=MANOKWARI&kdkab=8207'>MANOKWARI
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=YAPEN WAROPEN&kdkab=8208'>YAPEN WAROPEN
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=BIAK NUMFOR&kdkab=8209'>BIAK NUMFOR
+						<OPTION value='http://www.dprin.go.id/e-forms/siup/siup_input.asp?kab=KOD. JAYAPURA&kdkab=8271'>KOD. JAYAPURA
